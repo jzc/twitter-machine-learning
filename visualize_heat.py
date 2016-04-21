@@ -14,7 +14,7 @@ for i in range(0,len(lines),10):
     average = 0
     for data in current:
         data = data.split(", ")   
-        average = average + float(data[2]) #1: accuracy 2:precision 3:recall     
+        average = average + float(data[1]) #1: accuracy 2:precision 3:recall     
     average = average/10
     name = data[0].split()
     x,y,name = int(name[2]), int(name[4]), name[0]

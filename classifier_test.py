@@ -45,15 +45,17 @@ class TweetFeaturizer(object):
     def featurize(self, tweet):
         return ({ngram: (ngram in parse(tweet)) for ngram in self.all_ngrams })
 
-file_name = r".\training_set.json"
+train_file = r".\training_set.json"
 out = open("classifier_results.txt", "w")
 num_folds = 10
+
 #Load tweets
-file = open(file_name, "r", encoding="utf8")
+file = open(train_file, "r", encoding="utf8")
 tweets = []
 for line in file:
     parsed = json.loads(line)
     tweets.append((parsed["text"], "REL" if parsed["type"] in ("WSH", "GSH") else "IRR"))
+    
 for n in range(1,6):
     for remove in range(1,11):     
         #Extract ngrams and remove hapaxes
@@ -72,7 +74,7 @@ for n in range(1,6):
                 test_fold = train_set[i*subset_size:][:subset_size]
                 train_fold = train_set[:i*subset_size] + train_set[(i+1)*subset_size:]
                 if j == 0:
-                    name = "Naive Bayes"
+                    name = "NaiveBayes"
                     classifier = nltk.classify.NaiveBayesClassifier.train(train_fold)
                 elif j == 1:
                     name = "LogisticRegression"
@@ -80,7 +82,6 @@ for n in range(1,6):
                 elif j == 2:
                     name = "SVC"
                     classifier = nltk.classify.SklearnClassifier(SVC(class_weight='balanced')).train(train_fold)
-                classifier.train(train_fold)
                 test_fold_classified = classifier.classify_many(d for (d, l) in test_fold)
                 test_fold_actual = [l for (d,l) in test_fold]
                 accuracy, precision, recall = scores(test_fold_actual, test_fold_classified)
