@@ -48,15 +48,14 @@ class TweetFeaturizer(object):
 file_name = r".\training_set.json"
 out = open("classifier_results.txt", "w")
 num_folds = 10
+#Load tweets
+file = open(file_name, "r", encoding="utf8")
+tweets = []
+for line in file:
+    parsed = json.loads(line)
+    tweets.append((parsed["text"], "REL" if parsed["type"] in ("WSH", "GSH") else "IRR"))
 for n in range(1,6):
-    for remove in range(1,11):
-        #Load tweets
-        file = open(file_name, "r", encoding="utf8")
-        tweets = []
-        for line in file:
-            parsed = json.loads(line)
-            tweets.append((parsed["text"], "REL" if parsed["type"] in ("WSH", "GSH") else "IRR"))
-            
+    for remove in range(1,11):     
         #Extract ngrams and remove hapaxes
         tf = TweetFeaturizer(tweets, n, remove)
         print("created ngrams")
