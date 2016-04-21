@@ -1,13 +1,13 @@
-NaiveBayes ngrams: 1 removed: 1, 0.93, 0.0, 0.0
-NaiveBayes ngrams: 1 removed: 1, 0.9, 0.36363636363636365, 0.5714285714285714
-NaiveBayes ngrams: 1 removed: 1, 0.91, 0.2857142857142857, 0.3333333333333333
-NaiveBayes ngrams: 1 removed: 1, 0.91, 0.2, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 1, 0.97, 0.3333333333333333, 0.5
-NaiveBayes ngrams: 1 removed: 1, 0.93, 0.7142857142857143, 0.5
-NaiveBayes ngrams: 1 removed: 1, 0.93, 0.0, 0.0
-NaiveBayes ngrams: 1 removed: 1, 0.94, 0.3333333333333333, 0.5
-NaiveBayes ngrams: 1 removed: 1, 0.95, 0.6, 0.5
-NaiveBayes ngrams: 1 removed: 1, 0.94, 0.5, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 1, 0.93, 0.0, 0.0
+Naive Bayes ngrams: 1 removed: 1, 0.9, 0.36363636363636365, 0.5714285714285714
+Naive Bayes ngrams: 1 removed: 1, 0.91, 0.2857142857142857, 0.3333333333333333
+Naive Bayes ngrams: 1 removed: 1, 0.91, 0.2, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 1, 0.97, 0.3333333333333333, 0.5
+Naive Bayes ngrams: 1 removed: 1, 0.93, 0.7142857142857143, 0.5
+Naive Bayes ngrams: 1 removed: 1, 0.93, 0.0, 0.0
+Naive Bayes ngrams: 1 removed: 1, 0.94, 0.3333333333333333, 0.5
+Naive Bayes ngrams: 1 removed: 1, 0.95, 0.6, 0.5
+Naive Bayes ngrams: 1 removed: 1, 0.94, 0.5, 0.6666666666666666
 LogisticRegression ngrams: 1 removed: 1, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 1, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 1 removed: 1, 0.92, 0.42857142857142855, 0.42857142857142855
@@ -18,26 +18,26 @@ LogisticRegression ngrams: 1 removed: 1, 0.94, 0.3333333333333333, 0.2
 LogisticRegression ngrams: 1 removed: 1, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 1 removed: 1, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 1 removed: 1, 0.94, 0.5, 0.6666666666666666
-SVC ngrams: 1 removed: 1, 0.95, 0.0, None
-SVC ngrams: 1 removed: 1, 0.89, 0.0, None
-SVC ngrams: 1 removed: 1, 0.93, 0.0, None
-SVC ngrams: 1 removed: 1, 0.9, 0.0, None
-SVC ngrams: 1 removed: 1, 0.97, 0.0, None
-SVC ngrams: 1 removed: 1, 0.93, 0.0, None
-SVC ngrams: 1 removed: 1, 0.97, 0.0, None
-SVC ngrams: 1 removed: 1, 0.94, 0.0, None
-SVC ngrams: 1 removed: 1, 0.95, 0.0, None
-SVC ngrams: 1 removed: 1, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 2, 0.94, 0.4, 0.4
-NaiveBayes ngrams: 1 removed: 2, 0.93, 0.5454545454545454, 0.75
-NaiveBayes ngrams: 1 removed: 2, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 1 removed: 2, 0.92, 0.4, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 2, 0.97, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 1 removed: 2, 0.91, 0.7142857142857143, 0.4166666666666667
-NaiveBayes ngrams: 1 removed: 2, 0.92, 0.3333333333333333, 0.14285714285714285
-NaiveBayes ngrams: 1 removed: 2, 0.95, 0.5, 0.6
-NaiveBayes ngrams: 1 removed: 2, 0.94, 0.6, 0.42857142857142855
-NaiveBayes ngrams: 1 removed: 2, 0.94, 0.75, 0.6
+SVC ngrams: 1 removed: 1, 0.88, 0.4, 0.18181818181818182
+SVC ngrams: 1 removed: 1, 0.87, 0.8181818181818182, 0.45
+SVC ngrams: 1 removed: 1, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 1 removed: 1, 0.87, 0.6, 0.4
+SVC ngrams: 1 removed: 1, 0.89, 1.0, 0.21428571428571427
+SVC ngrams: 1 removed: 1, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 1 removed: 1, 0.8, 1.0, 0.13043478260869565
+SVC ngrams: 1 removed: 1, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 1 removed: 1, 0.9, 0.8, 0.3076923076923077
+SVC ngrams: 1 removed: 1, 0.86, 0.75, 0.3333333333333333
+Naive Bayes ngrams: 1 removed: 2, 0.94, 0.4, 0.4
+Naive Bayes ngrams: 1 removed: 2, 0.93, 0.5454545454545454, 0.75
+Naive Bayes ngrams: 1 removed: 2, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 1 removed: 2, 0.92, 0.4, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 2, 0.97, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 1 removed: 2, 0.91, 0.7142857142857143, 0.4166666666666667
+Naive Bayes ngrams: 1 removed: 2, 0.92, 0.3333333333333333, 0.14285714285714285
+Naive Bayes ngrams: 1 removed: 2, 0.95, 0.5, 0.6
+Naive Bayes ngrams: 1 removed: 2, 0.94, 0.6, 0.42857142857142855
+Naive Bayes ngrams: 1 removed: 2, 0.94, 0.75, 0.6
 LogisticRegression ngrams: 1 removed: 2, 0.93, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 2, 0.91, 0.18181818181818182, 1.0
 LogisticRegression ngrams: 1 removed: 2, 0.95, 0.42857142857142855, 0.75
@@ -48,26 +48,26 @@ LogisticRegression ngrams: 1 removed: 2, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 1 removed: 2, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 1 removed: 2, 0.97, 0.6, 0.75
 LogisticRegression ngrams: 1 removed: 2, 0.94, 0.5, 0.6666666666666666
-SVC ngrams: 1 removed: 2, 0.95, 0.0, None
-SVC ngrams: 1 removed: 2, 0.89, 0.0, None
-SVC ngrams: 1 removed: 2, 0.93, 0.0, None
-SVC ngrams: 1 removed: 2, 0.9, 0.0, None
-SVC ngrams: 1 removed: 2, 0.97, 0.0, None
-SVC ngrams: 1 removed: 2, 0.93, 0.0, None
-SVC ngrams: 1 removed: 2, 0.97, 0.0, None
-SVC ngrams: 1 removed: 2, 0.94, 0.0, None
-SVC ngrams: 1 removed: 2, 0.95, 0.0, None
-SVC ngrams: 1 removed: 2, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 3, 0.94, 0.4, 0.4
-NaiveBayes ngrams: 1 removed: 3, 0.91, 0.36363636363636365, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 1 removed: 3, 0.91, 0.3, 0.6
-NaiveBayes ngrams: 1 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
-NaiveBayes ngrams: 1 removed: 3, 0.9, 0.5714285714285714, 0.36363636363636365
-NaiveBayes ngrams: 1 removed: 3, 0.92, 0.3333333333333333, 0.14285714285714285
-NaiveBayes ngrams: 1 removed: 3, 0.93, 0.5, 0.42857142857142855
-NaiveBayes ngrams: 1 removed: 3, 0.89, 0.6, 0.25
-NaiveBayes ngrams: 1 removed: 3, 0.94, 0.75, 0.6
+SVC ngrams: 1 removed: 2, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 1 removed: 2, 0.88, 0.8181818181818182, 0.47368421052631576
+SVC ngrams: 1 removed: 2, 0.82, 0.5714285714285714, 0.21052631578947367
+SVC ngrams: 1 removed: 2, 0.9, 0.8, 0.5
+SVC ngrams: 1 removed: 2, 0.87, 1.0, 0.1875
+SVC ngrams: 1 removed: 2, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 1 removed: 2, 0.82, 1.0, 0.14285714285714285
+SVC ngrams: 1 removed: 2, 0.92, 0.6666666666666666, 0.4
+SVC ngrams: 1 removed: 2, 0.92, 0.8, 0.36363636363636365
+SVC ngrams: 1 removed: 2, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 1 removed: 3, 0.94, 0.4, 0.4
+Naive Bayes ngrams: 1 removed: 3, 0.91, 0.36363636363636365, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 1 removed: 3, 0.91, 0.3, 0.6
+Naive Bayes ngrams: 1 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
+Naive Bayes ngrams: 1 removed: 3, 0.9, 0.5714285714285714, 0.36363636363636365
+Naive Bayes ngrams: 1 removed: 3, 0.92, 0.3333333333333333, 0.14285714285714285
+Naive Bayes ngrams: 1 removed: 3, 0.93, 0.5, 0.42857142857142855
+Naive Bayes ngrams: 1 removed: 3, 0.89, 0.6, 0.25
+Naive Bayes ngrams: 1 removed: 3, 0.94, 0.75, 0.6
 LogisticRegression ngrams: 1 removed: 3, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 3, 0.9, 0.09090909090909091, 1.0
 LogisticRegression ngrams: 1 removed: 3, 0.95, 0.42857142857142855, 0.75
@@ -78,26 +78,26 @@ LogisticRegression ngrams: 1 removed: 3, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 1 removed: 3, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 1 removed: 3, 0.97, 0.4, 1.0
 LogisticRegression ngrams: 1 removed: 3, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 1 removed: 3, 0.95, 0.0, None
-SVC ngrams: 1 removed: 3, 0.89, 0.0, None
-SVC ngrams: 1 removed: 3, 0.93, 0.0, None
-SVC ngrams: 1 removed: 3, 0.9, 0.0, None
-SVC ngrams: 1 removed: 3, 0.97, 0.0, None
-SVC ngrams: 1 removed: 3, 0.93, 0.0, None
-SVC ngrams: 1 removed: 3, 0.97, 0.0, None
-SVC ngrams: 1 removed: 3, 0.94, 0.0, None
-SVC ngrams: 1 removed: 3, 0.95, 0.0, None
-SVC ngrams: 1 removed: 3, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 4, 0.92, 0.0, 0.0
-NaiveBayes ngrams: 1 removed: 4, 0.89, 0.36363636363636365, 0.5
-NaiveBayes ngrams: 1 removed: 4, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 1 removed: 4, 0.92, 0.4, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 4, 0.97, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 1 removed: 4, 0.9, 0.5714285714285714, 0.36363636363636365
-NaiveBayes ngrams: 1 removed: 4, 0.91, 0.6666666666666666, 0.2
-NaiveBayes ngrams: 1 removed: 4, 0.94, 0.5, 0.5
-NaiveBayes ngrams: 1 removed: 4, 0.89, 0.6, 0.25
-NaiveBayes ngrams: 1 removed: 4, 0.94, 0.625, 0.625
+SVC ngrams: 1 removed: 3, 0.87, 0.4, 0.16666666666666666
+SVC ngrams: 1 removed: 3, 0.85, 0.7272727272727273, 0.4
+SVC ngrams: 1 removed: 3, 0.82, 0.42857142857142855, 0.17647058823529413
+SVC ngrams: 1 removed: 3, 0.83, 0.6, 0.3157894736842105
+SVC ngrams: 1 removed: 3, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 1 removed: 3, 0.86, 1.0, 0.3333333333333333
+SVC ngrams: 1 removed: 3, 0.76, 1.0, 0.1111111111111111
+SVC ngrams: 1 removed: 3, 0.9, 0.5, 0.3
+SVC ngrams: 1 removed: 3, 0.9, 1.0, 0.3333333333333333
+SVC ngrams: 1 removed: 3, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 1 removed: 4, 0.92, 0.0, 0.0
+Naive Bayes ngrams: 1 removed: 4, 0.89, 0.36363636363636365, 0.5
+Naive Bayes ngrams: 1 removed: 4, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 1 removed: 4, 0.92, 0.4, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 4, 0.97, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 1 removed: 4, 0.9, 0.5714285714285714, 0.36363636363636365
+Naive Bayes ngrams: 1 removed: 4, 0.91, 0.6666666666666666, 0.2
+Naive Bayes ngrams: 1 removed: 4, 0.94, 0.5, 0.5
+Naive Bayes ngrams: 1 removed: 4, 0.89, 0.6, 0.25
+Naive Bayes ngrams: 1 removed: 4, 0.94, 0.625, 0.625
 LogisticRegression ngrams: 1 removed: 4, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 4, 0.9, 0.09090909090909091, 1.0
 LogisticRegression ngrams: 1 removed: 4, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -108,26 +108,26 @@ LogisticRegression ngrams: 1 removed: 4, 0.97, 0.3333333333333333, 0.5
 LogisticRegression ngrams: 1 removed: 4, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 1 removed: 4, 0.97, 0.4, 1.0
 LogisticRegression ngrams: 1 removed: 4, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 1 removed: 4, 0.95, 0.0, None
-SVC ngrams: 1 removed: 4, 0.89, 0.0, None
-SVC ngrams: 1 removed: 4, 0.93, 0.0, None
-SVC ngrams: 1 removed: 4, 0.9, 0.0, None
-SVC ngrams: 1 removed: 4, 0.97, 0.0, None
-SVC ngrams: 1 removed: 4, 0.93, 0.0, None
-SVC ngrams: 1 removed: 4, 0.97, 0.0, None
-SVC ngrams: 1 removed: 4, 0.94, 0.0, None
-SVC ngrams: 1 removed: 4, 0.95, 0.0, None
-SVC ngrams: 1 removed: 4, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 5, 0.92, 0.0, 0.0
-NaiveBayes ngrams: 1 removed: 5, 0.9, 0.36363636363636365, 0.5714285714285714
-NaiveBayes ngrams: 1 removed: 5, 0.9, 0.5714285714285714, 0.36363636363636365
-NaiveBayes ngrams: 1 removed: 5, 0.92, 0.4, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 5, 0.96, 0.6666666666666666, 0.4
-NaiveBayes ngrams: 1 removed: 5, 0.91, 0.7142857142857143, 0.4166666666666667
-NaiveBayes ngrams: 1 removed: 5, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 1 removed: 5, 0.94, 0.5, 0.5
-NaiveBayes ngrams: 1 removed: 5, 0.89, 0.6, 0.25
-NaiveBayes ngrams: 1 removed: 5, 0.92, 0.5, 0.5
+SVC ngrams: 1 removed: 4, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 1 removed: 4, 0.85, 0.7272727272727273, 0.4
+SVC ngrams: 1 removed: 4, 0.84, 0.42857142857142855, 0.2
+SVC ngrams: 1 removed: 4, 0.84, 0.6, 0.3333333333333333
+SVC ngrams: 1 removed: 4, 0.89, 1.0, 0.21428571428571427
+SVC ngrams: 1 removed: 4, 0.88, 1.0, 0.3684210526315789
+SVC ngrams: 1 removed: 4, 0.82, 1.0, 0.14285714285714285
+SVC ngrams: 1 removed: 4, 0.91, 0.5, 0.3333333333333333
+SVC ngrams: 1 removed: 4, 0.9, 1.0, 0.3333333333333333
+SVC ngrams: 1 removed: 4, 0.83, 0.75, 0.2857142857142857
+Naive Bayes ngrams: 1 removed: 5, 0.92, 0.0, 0.0
+Naive Bayes ngrams: 1 removed: 5, 0.9, 0.36363636363636365, 0.5714285714285714
+Naive Bayes ngrams: 1 removed: 5, 0.9, 0.5714285714285714, 0.36363636363636365
+Naive Bayes ngrams: 1 removed: 5, 0.92, 0.4, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 5, 0.96, 0.6666666666666666, 0.4
+Naive Bayes ngrams: 1 removed: 5, 0.91, 0.7142857142857143, 0.4166666666666667
+Naive Bayes ngrams: 1 removed: 5, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 1 removed: 5, 0.94, 0.5, 0.5
+Naive Bayes ngrams: 1 removed: 5, 0.89, 0.6, 0.25
+Naive Bayes ngrams: 1 removed: 5, 0.92, 0.5, 0.5
 LogisticRegression ngrams: 1 removed: 5, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 5, 0.9, 0.09090909090909091, 1.0
 LogisticRegression ngrams: 1 removed: 5, 0.95, 0.42857142857142855, 0.75
@@ -138,26 +138,26 @@ LogisticRegression ngrams: 1 removed: 5, 0.97, 0.3333333333333333, 0.5
 LogisticRegression ngrams: 1 removed: 5, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 1 removed: 5, 0.97, 0.4, 1.0
 LogisticRegression ngrams: 1 removed: 5, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 1 removed: 5, 0.95, 0.0, None
-SVC ngrams: 1 removed: 5, 0.89, 0.0, None
-SVC ngrams: 1 removed: 5, 0.93, 0.0, None
-SVC ngrams: 1 removed: 5, 0.9, 0.0, None
-SVC ngrams: 1 removed: 5, 0.97, 0.0, None
-SVC ngrams: 1 removed: 5, 0.93, 0.0, None
-SVC ngrams: 1 removed: 5, 0.97, 0.0, None
-SVC ngrams: 1 removed: 5, 0.94, 0.0, None
-SVC ngrams: 1 removed: 5, 0.95, 0.0, None
-SVC ngrams: 1 removed: 5, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 6, 0.93, 0.2, 0.25
-NaiveBayes ngrams: 1 removed: 6, 0.9, 0.45454545454545453, 0.5555555555555556
-NaiveBayes ngrams: 1 removed: 6, 0.89, 0.5714285714285714, 0.3333333333333333
-NaiveBayes ngrams: 1 removed: 6, 0.92, 0.4, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 6, 0.97, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 1 removed: 6, 0.92, 0.7142857142857143, 0.45454545454545453
-NaiveBayes ngrams: 1 removed: 6, 0.92, 1.0, 0.2727272727272727
-NaiveBayes ngrams: 1 removed: 6, 0.93, 0.3333333333333333, 0.4
-NaiveBayes ngrams: 1 removed: 6, 0.93, 0.8, 0.4
-NaiveBayes ngrams: 1 removed: 6, 0.94, 0.625, 0.625
+SVC ngrams: 1 removed: 5, 0.87, 0.4, 0.16666666666666666
+SVC ngrams: 1 removed: 5, 0.87, 0.8181818181818182, 0.45
+SVC ngrams: 1 removed: 5, 0.84, 0.42857142857142855, 0.2
+SVC ngrams: 1 removed: 5, 0.88, 0.7, 0.4375
+SVC ngrams: 1 removed: 5, 0.9, 1.0, 0.23076923076923078
+SVC ngrams: 1 removed: 5, 0.87, 0.8571428571428571, 0.3333333333333333
+SVC ngrams: 1 removed: 5, 0.81, 1.0, 0.13636363636363635
+SVC ngrams: 1 removed: 5, 0.9, 0.5, 0.3
+SVC ngrams: 1 removed: 5, 0.9, 1.0, 0.3333333333333333
+SVC ngrams: 1 removed: 5, 0.85, 0.75, 0.3157894736842105
+Naive Bayes ngrams: 1 removed: 6, 0.93, 0.2, 0.25
+Naive Bayes ngrams: 1 removed: 6, 0.9, 0.45454545454545453, 0.5555555555555556
+Naive Bayes ngrams: 1 removed: 6, 0.89, 0.5714285714285714, 0.3333333333333333
+Naive Bayes ngrams: 1 removed: 6, 0.92, 0.4, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 6, 0.97, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 1 removed: 6, 0.92, 0.7142857142857143, 0.45454545454545453
+Naive Bayes ngrams: 1 removed: 6, 0.92, 1.0, 0.2727272727272727
+Naive Bayes ngrams: 1 removed: 6, 0.93, 0.3333333333333333, 0.4
+Naive Bayes ngrams: 1 removed: 6, 0.93, 0.8, 0.4
+Naive Bayes ngrams: 1 removed: 6, 0.94, 0.625, 0.625
 LogisticRegression ngrams: 1 removed: 6, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 6, 0.9, 0.09090909090909091, 1.0
 LogisticRegression ngrams: 1 removed: 6, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -168,26 +168,26 @@ LogisticRegression ngrams: 1 removed: 6, 0.98, 0.6666666666666666, 0.66666666666
 LogisticRegression ngrams: 1 removed: 6, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 1 removed: 6, 0.97, 0.4, 1.0
 LogisticRegression ngrams: 1 removed: 6, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 1 removed: 6, 0.95, 0.0, None
-SVC ngrams: 1 removed: 6, 0.89, 0.0, None
-SVC ngrams: 1 removed: 6, 0.93, 0.0, None
-SVC ngrams: 1 removed: 6, 0.9, 0.0, None
-SVC ngrams: 1 removed: 6, 0.97, 0.0, None
-SVC ngrams: 1 removed: 6, 0.93, 0.0, None
-SVC ngrams: 1 removed: 6, 0.97, 0.0, None
-SVC ngrams: 1 removed: 6, 0.94, 0.0, None
-SVC ngrams: 1 removed: 6, 0.95, 0.0, None
-SVC ngrams: 1 removed: 6, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 7, 0.92, 0.2, 0.2
-NaiveBayes ngrams: 1 removed: 7, 0.91, 0.5454545454545454, 0.6
-NaiveBayes ngrams: 1 removed: 7, 0.9, 0.5714285714285714, 0.36363636363636365
-NaiveBayes ngrams: 1 removed: 7, 0.93, 0.4, 0.8
-NaiveBayes ngrams: 1 removed: 7, 0.97, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 1 removed: 7, 0.9, 0.7142857142857143, 0.38461538461538464
-NaiveBayes ngrams: 1 removed: 7, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 1 removed: 7, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 7, 0.92, 0.8, 0.36363636363636365
-NaiveBayes ngrams: 1 removed: 7, 0.95, 0.625, 0.7142857142857143
+SVC ngrams: 1 removed: 6, 0.88, 0.4, 0.18181818181818182
+SVC ngrams: 1 removed: 6, 0.87, 0.8181818181818182, 0.45
+SVC ngrams: 1 removed: 6, 0.85, 0.42857142857142855, 0.21428571428571427
+SVC ngrams: 1 removed: 6, 0.88, 0.7, 0.4375
+SVC ngrams: 1 removed: 6, 0.9, 1.0, 0.23076923076923078
+SVC ngrams: 1 removed: 6, 0.89, 1.0, 0.3888888888888889
+SVC ngrams: 1 removed: 6, 0.82, 1.0, 0.14285714285714285
+SVC ngrams: 1 removed: 6, 0.93, 0.6666666666666666, 0.4444444444444444
+SVC ngrams: 1 removed: 6, 0.9, 1.0, 0.3333333333333333
+SVC ngrams: 1 removed: 6, 0.85, 0.75, 0.3157894736842105
+Naive Bayes ngrams: 1 removed: 7, 0.92, 0.2, 0.2
+Naive Bayes ngrams: 1 removed: 7, 0.91, 0.5454545454545454, 0.6
+Naive Bayes ngrams: 1 removed: 7, 0.9, 0.5714285714285714, 0.36363636363636365
+Naive Bayes ngrams: 1 removed: 7, 0.93, 0.4, 0.8
+Naive Bayes ngrams: 1 removed: 7, 0.97, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 1 removed: 7, 0.9, 0.7142857142857143, 0.38461538461538464
+Naive Bayes ngrams: 1 removed: 7, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 1 removed: 7, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 7, 0.92, 0.8, 0.36363636363636365
+Naive Bayes ngrams: 1 removed: 7, 0.95, 0.625, 0.7142857142857143
 LogisticRegression ngrams: 1 removed: 7, 0.93, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 7, 0.88, 0.09090909090909091, 0.3333333333333333
 LogisticRegression ngrams: 1 removed: 7, 0.93, 0.14285714285714285, 0.5
@@ -198,26 +198,26 @@ LogisticRegression ngrams: 1 removed: 7, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 1 removed: 7, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 1 removed: 7, 0.97, 0.4, 1.0
 LogisticRegression ngrams: 1 removed: 7, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 1 removed: 7, 0.95, 0.0, None
-SVC ngrams: 1 removed: 7, 0.89, 0.0, None
-SVC ngrams: 1 removed: 7, 0.93, 0.0, None
-SVC ngrams: 1 removed: 7, 0.9, 0.0, None
-SVC ngrams: 1 removed: 7, 0.97, 0.0, None
-SVC ngrams: 1 removed: 7, 0.93, 0.0, None
-SVC ngrams: 1 removed: 7, 0.97, 0.0, None
-SVC ngrams: 1 removed: 7, 0.94, 0.0, None
-SVC ngrams: 1 removed: 7, 0.95, 0.0, None
-SVC ngrams: 1 removed: 7, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 8, 0.92, 0.4, 0.2857142857142857
-NaiveBayes ngrams: 1 removed: 8, 0.89, 0.5454545454545454, 0.5
-NaiveBayes ngrams: 1 removed: 8, 0.91, 0.5714285714285714, 0.4
-NaiveBayes ngrams: 1 removed: 8, 0.93, 0.4, 0.8
-NaiveBayes ngrams: 1 removed: 8, 0.98, 0.6666666666666666, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 8, 0.91, 0.7142857142857143, 0.4166666666666667
-NaiveBayes ngrams: 1 removed: 8, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 1 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 8, 0.92, 0.8, 0.36363636363636365
-NaiveBayes ngrams: 1 removed: 8, 0.96, 0.75, 0.75
+SVC ngrams: 1 removed: 7, 0.89, 0.4, 0.2
+SVC ngrams: 1 removed: 7, 0.87, 0.8181818181818182, 0.45
+SVC ngrams: 1 removed: 7, 0.86, 0.5714285714285714, 0.26666666666666666
+SVC ngrams: 1 removed: 7, 0.89, 0.8, 0.47058823529411764
+SVC ngrams: 1 removed: 7, 0.86, 1.0, 0.17647058823529413
+SVC ngrams: 1 removed: 7, 0.84, 1.0, 0.30434782608695654
+SVC ngrams: 1 removed: 7, 0.83, 1.0, 0.15
+SVC ngrams: 1 removed: 7, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 1 removed: 7, 0.91, 1.0, 0.35714285714285715
+SVC ngrams: 1 removed: 7, 0.85, 0.75, 0.3157894736842105
+Naive Bayes ngrams: 1 removed: 8, 0.92, 0.4, 0.2857142857142857
+Naive Bayes ngrams: 1 removed: 8, 0.89, 0.5454545454545454, 0.5
+Naive Bayes ngrams: 1 removed: 8, 0.91, 0.5714285714285714, 0.4
+Naive Bayes ngrams: 1 removed: 8, 0.93, 0.4, 0.8
+Naive Bayes ngrams: 1 removed: 8, 0.98, 0.6666666666666666, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 8, 0.91, 0.7142857142857143, 0.4166666666666667
+Naive Bayes ngrams: 1 removed: 8, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 1 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 8, 0.92, 0.8, 0.36363636363636365
+Naive Bayes ngrams: 1 removed: 8, 0.96, 0.75, 0.75
 LogisticRegression ngrams: 1 removed: 8, 0.93, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 8, 0.87, 0.09090909090909091, 0.25
 LogisticRegression ngrams: 1 removed: 8, 0.92, 0.14285714285714285, 0.3333333333333333
@@ -228,26 +228,26 @@ LogisticRegression ngrams: 1 removed: 8, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 1 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 1 removed: 8, 0.96, 0.2, 1.0
 LogisticRegression ngrams: 1 removed: 8, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 1 removed: 8, 0.95, 0.0, None
-SVC ngrams: 1 removed: 8, 0.89, 0.0, None
-SVC ngrams: 1 removed: 8, 0.93, 0.0, None
-SVC ngrams: 1 removed: 8, 0.9, 0.0, None
-SVC ngrams: 1 removed: 8, 0.97, 0.0, None
-SVC ngrams: 1 removed: 8, 0.93, 0.0, None
-SVC ngrams: 1 removed: 8, 0.97, 0.0, None
-SVC ngrams: 1 removed: 8, 0.94, 0.0, None
-SVC ngrams: 1 removed: 8, 0.95, 0.0, None
-SVC ngrams: 1 removed: 8, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 9, 0.91, 0.2, 0.16666666666666666
-NaiveBayes ngrams: 1 removed: 9, 0.89, 0.45454545454545453, 0.5
-NaiveBayes ngrams: 1 removed: 9, 0.91, 0.5714285714285714, 0.4
-NaiveBayes ngrams: 1 removed: 9, 0.93, 0.4, 0.8
-NaiveBayes ngrams: 1 removed: 9, 0.98, 0.6666666666666666, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 9, 0.92, 0.8571428571428571, 0.46153846153846156
-NaiveBayes ngrams: 1 removed: 9, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 1 removed: 9, 0.96, 0.3333333333333333, 1.0
-NaiveBayes ngrams: 1 removed: 9, 0.92, 0.8, 0.36363636363636365
-NaiveBayes ngrams: 1 removed: 9, 0.96, 0.75, 0.75
+SVC ngrams: 1 removed: 8, 0.88, 0.4, 0.18181818181818182
+SVC ngrams: 1 removed: 8, 0.87, 0.8181818181818182, 0.45
+SVC ngrams: 1 removed: 8, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 1 removed: 8, 0.87, 0.8, 0.42105263157894735
+SVC ngrams: 1 removed: 8, 0.88, 1.0, 0.2
+SVC ngrams: 1 removed: 8, 0.88, 1.0, 0.3684210526315789
+SVC ngrams: 1 removed: 8, 0.85, 1.0, 0.16666666666666666
+SVC ngrams: 1 removed: 8, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 1 removed: 8, 0.91, 1.0, 0.35714285714285715
+SVC ngrams: 1 removed: 8, 0.83, 0.75, 0.2857142857142857
+Naive Bayes ngrams: 1 removed: 9, 0.91, 0.2, 0.16666666666666666
+Naive Bayes ngrams: 1 removed: 9, 0.89, 0.45454545454545453, 0.5
+Naive Bayes ngrams: 1 removed: 9, 0.91, 0.5714285714285714, 0.4
+Naive Bayes ngrams: 1 removed: 9, 0.93, 0.4, 0.8
+Naive Bayes ngrams: 1 removed: 9, 0.98, 0.6666666666666666, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 9, 0.92, 0.8571428571428571, 0.46153846153846156
+Naive Bayes ngrams: 1 removed: 9, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 1 removed: 9, 0.96, 0.3333333333333333, 1.0
+Naive Bayes ngrams: 1 removed: 9, 0.92, 0.8, 0.36363636363636365
+Naive Bayes ngrams: 1 removed: 9, 0.96, 0.75, 0.75
 LogisticRegression ngrams: 1 removed: 9, 0.93, 0.0, 0.0
 LogisticRegression ngrams: 1 removed: 9, 0.87, 0.09090909090909091, 0.25
 LogisticRegression ngrams: 1 removed: 9, 0.92, 0.14285714285714285, 0.3333333333333333
@@ -258,26 +258,26 @@ LogisticRegression ngrams: 1 removed: 9, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 1 removed: 9, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 1 removed: 9, 0.96, 0.2, 1.0
 LogisticRegression ngrams: 1 removed: 9, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 1 removed: 9, 0.95, 0.0, None
-SVC ngrams: 1 removed: 9, 0.89, 0.0, None
-SVC ngrams: 1 removed: 9, 0.93, 0.0, None
-SVC ngrams: 1 removed: 9, 0.9, 0.0, None
-SVC ngrams: 1 removed: 9, 0.97, 0.0, None
-SVC ngrams: 1 removed: 9, 0.93, 0.0, None
-SVC ngrams: 1 removed: 9, 0.97, 0.0, None
-SVC ngrams: 1 removed: 9, 0.94, 0.0, None
-SVC ngrams: 1 removed: 9, 0.95, 0.0, None
-SVC ngrams: 1 removed: 9, 0.92, 0.0, None
-NaiveBayes ngrams: 1 removed: 10, 0.92, 0.4, 0.2857142857142857
-NaiveBayes ngrams: 1 removed: 10, 0.9, 0.45454545454545453, 0.5555555555555556
-NaiveBayes ngrams: 1 removed: 10, 0.91, 0.5714285714285714, 0.4
-NaiveBayes ngrams: 1 removed: 10, 0.91, 0.3, 0.6
-NaiveBayes ngrams: 1 removed: 10, 0.96, 0.6666666666666666, 0.4
-NaiveBayes ngrams: 1 removed: 10, 0.92, 0.8571428571428571, 0.46153846153846156
-NaiveBayes ngrams: 1 removed: 10, 0.94, 1.0, 0.3333333333333333
-NaiveBayes ngrams: 1 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 1 removed: 10, 0.93, 0.8, 0.4
-NaiveBayes ngrams: 1 removed: 10, 0.96, 0.75, 0.75
+SVC ngrams: 1 removed: 9, 0.88, 0.4, 0.18181818181818182
+SVC ngrams: 1 removed: 9, 0.87, 0.8181818181818182, 0.45
+SVC ngrams: 1 removed: 9, 0.86, 0.5714285714285714, 0.26666666666666666
+SVC ngrams: 1 removed: 9, 0.86, 0.7, 0.3888888888888889
+SVC ngrams: 1 removed: 9, 0.9, 1.0, 0.23076923076923078
+SVC ngrams: 1 removed: 9, 0.87, 1.0, 0.35
+SVC ngrams: 1 removed: 9, 0.86, 1.0, 0.17647058823529413
+SVC ngrams: 1 removed: 9, 0.92, 0.6666666666666666, 0.4
+SVC ngrams: 1 removed: 9, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 1 removed: 9, 0.87, 0.75, 0.35294117647058826
+Naive Bayes ngrams: 1 removed: 10, 0.92, 0.4, 0.2857142857142857
+Naive Bayes ngrams: 1 removed: 10, 0.9, 0.45454545454545453, 0.5555555555555556
+Naive Bayes ngrams: 1 removed: 10, 0.91, 0.5714285714285714, 0.4
+Naive Bayes ngrams: 1 removed: 10, 0.91, 0.3, 0.6
+Naive Bayes ngrams: 1 removed: 10, 0.96, 0.6666666666666666, 0.4
+Naive Bayes ngrams: 1 removed: 10, 0.92, 0.8571428571428571, 0.46153846153846156
+Naive Bayes ngrams: 1 removed: 10, 0.94, 1.0, 0.3333333333333333
+Naive Bayes ngrams: 1 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 1 removed: 10, 0.93, 0.8, 0.4
+Naive Bayes ngrams: 1 removed: 10, 0.96, 0.75, 0.75
 LogisticRegression ngrams: 1 removed: 10, 0.93, 0.2, 0.25
 LogisticRegression ngrams: 1 removed: 10, 0.88, 0.09090909090909091, 0.3333333333333333
 LogisticRegression ngrams: 1 removed: 10, 0.93, 0.2857142857142857, 0.5
@@ -288,26 +288,26 @@ LogisticRegression ngrams: 1 removed: 10, 0.96, 0.3333333333333333, 0.3333333333
 LogisticRegression ngrams: 1 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 1 removed: 10, 0.96, 0.2, 1.0
 LogisticRegression ngrams: 1 removed: 10, 0.95, 0.5, 0.8
-SVC ngrams: 1 removed: 10, 0.95, 0.0, None
-SVC ngrams: 1 removed: 10, 0.89, 0.0, None
-SVC ngrams: 1 removed: 10, 0.93, 0.0, None
-SVC ngrams: 1 removed: 10, 0.9, 0.0, None
-SVC ngrams: 1 removed: 10, 0.97, 0.0, None
-SVC ngrams: 1 removed: 10, 0.93, 0.0, None
-SVC ngrams: 1 removed: 10, 0.97, 0.0, None
-SVC ngrams: 1 removed: 10, 0.94, 0.0, None
-SVC ngrams: 1 removed: 10, 0.95, 0.0, None
-SVC ngrams: 1 removed: 10, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 1, 0.89, 0.0, 0.0
-NaiveBayes ngrams: 2 removed: 1, 0.87, 0.18181818181818182, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 1, 0.89, 0.2857142857142857, 0.25
-NaiveBayes ngrams: 2 removed: 1, 0.87, 0.1, 0.2
-NaiveBayes ngrams: 2 removed: 1, 0.99, 0.6666666666666666, 1.0
-NaiveBayes ngrams: 2 removed: 1, 0.93, 0.5714285714285714, 0.5
-NaiveBayes ngrams: 2 removed: 1, 0.95, 0.6666666666666666, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 1, 0.96, 0.5, 0.75
-NaiveBayes ngrams: 2 removed: 1, 0.95, 0.6, 0.5
-NaiveBayes ngrams: 2 removed: 1, 0.93, 0.5, 0.5714285714285714
+SVC ngrams: 1 removed: 10, 0.87, 0.4, 0.16666666666666666
+SVC ngrams: 1 removed: 10, 0.87, 0.8181818181818182, 0.45
+SVC ngrams: 1 removed: 10, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 1 removed: 10, 0.86, 0.7, 0.3888888888888889
+SVC ngrams: 1 removed: 10, 0.88, 1.0, 0.2
+SVC ngrams: 1 removed: 10, 0.87, 1.0, 0.35
+SVC ngrams: 1 removed: 10, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 1 removed: 10, 0.93, 0.6666666666666666, 0.4444444444444444
+SVC ngrams: 1 removed: 10, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 1 removed: 10, 0.86, 0.75, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 1, 0.89, 0.0, 0.0
+Naive Bayes ngrams: 2 removed: 1, 0.87, 0.18181818181818182, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 1, 0.89, 0.2857142857142857, 0.25
+Naive Bayes ngrams: 2 removed: 1, 0.87, 0.1, 0.2
+Naive Bayes ngrams: 2 removed: 1, 0.99, 0.6666666666666666, 1.0
+Naive Bayes ngrams: 2 removed: 1, 0.93, 0.5714285714285714, 0.5
+Naive Bayes ngrams: 2 removed: 1, 0.95, 0.6666666666666666, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 1, 0.96, 0.5, 0.75
+Naive Bayes ngrams: 2 removed: 1, 0.95, 0.6, 0.5
+Naive Bayes ngrams: 2 removed: 1, 0.93, 0.5, 0.5714285714285714
 LogisticRegression ngrams: 2 removed: 1, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 2 removed: 1, 0.92, 0.36363636363636365, 0.8
 LogisticRegression ngrams: 2 removed: 1, 0.91, 0.2857142857142857, 0.3333333333333333
@@ -318,26 +318,26 @@ LogisticRegression ngrams: 2 removed: 1, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 2 removed: 1, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 2 removed: 1, 0.95, 0.4, 0.5
 LogisticRegression ngrams: 2 removed: 1, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 1, 0.95, 0.0, None
-SVC ngrams: 2 removed: 1, 0.89, 0.0, None
-SVC ngrams: 2 removed: 1, 0.93, 0.0, None
-SVC ngrams: 2 removed: 1, 0.9, 0.0, None
-SVC ngrams: 2 removed: 1, 0.97, 0.0, None
-SVC ngrams: 2 removed: 1, 0.93, 0.0, None
-SVC ngrams: 2 removed: 1, 0.97, 0.0, None
-SVC ngrams: 2 removed: 1, 0.94, 0.0, None
-SVC ngrams: 2 removed: 1, 0.95, 0.0, None
-SVC ngrams: 2 removed: 1, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 2, 0.92, 0.0, 0.0
-NaiveBayes ngrams: 2 removed: 2, 0.92, 0.45454545454545453, 0.7142857142857143
-NaiveBayes ngrams: 2 removed: 2, 0.9, 0.42857142857142855, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 2, 0.94, 0.6, 0.75
-NaiveBayes ngrams: 2 removed: 2, 0.97, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 2 removed: 2, 0.9, 0.7142857142857143, 0.38461538461538464
-NaiveBayes ngrams: 2 removed: 2, 0.94, 0.6666666666666666, 0.2857142857142857
-NaiveBayes ngrams: 2 removed: 2, 0.96, 0.5, 0.75
-NaiveBayes ngrams: 2 removed: 2, 0.96, 0.8, 0.5714285714285714
-NaiveBayes ngrams: 2 removed: 2, 0.9, 0.75, 0.42857142857142855
+SVC ngrams: 2 removed: 1, 0.89, 0.4, 0.2
+SVC ngrams: 2 removed: 1, 0.91, 0.9090909090909091, 0.5555555555555556
+SVC ngrams: 2 removed: 1, 0.88, 0.5714285714285714, 0.3076923076923077
+SVC ngrams: 2 removed: 1, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 2 removed: 1, 0.92, 1.0, 0.2727272727272727
+SVC ngrams: 2 removed: 1, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 2 removed: 1, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 2 removed: 1, 0.94, 0.6666666666666666, 0.5
+SVC ngrams: 2 removed: 1, 0.95, 0.8, 0.5
+SVC ngrams: 2 removed: 1, 0.9, 0.875, 0.4375
+Naive Bayes ngrams: 2 removed: 2, 0.92, 0.0, 0.0
+Naive Bayes ngrams: 2 removed: 2, 0.92, 0.45454545454545453, 0.7142857142857143
+Naive Bayes ngrams: 2 removed: 2, 0.9, 0.42857142857142855, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 2, 0.94, 0.6, 0.75
+Naive Bayes ngrams: 2 removed: 2, 0.97, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 2 removed: 2, 0.9, 0.7142857142857143, 0.38461538461538464
+Naive Bayes ngrams: 2 removed: 2, 0.94, 0.6666666666666666, 0.2857142857142857
+Naive Bayes ngrams: 2 removed: 2, 0.96, 0.5, 0.75
+Naive Bayes ngrams: 2 removed: 2, 0.96, 0.8, 0.5714285714285714
+Naive Bayes ngrams: 2 removed: 2, 0.9, 0.75, 0.42857142857142855
 LogisticRegression ngrams: 2 removed: 2, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 2 removed: 2, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 2 removed: 2, 0.93, 0.2857142857142857, 0.5
@@ -348,26 +348,26 @@ LogisticRegression ngrams: 2 removed: 2, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 2 removed: 2, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 2 removed: 2, 0.95, 0.4, 0.5
 LogisticRegression ngrams: 2 removed: 2, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 2, 0.95, 0.0, None
-SVC ngrams: 2 removed: 2, 0.89, 0.0, None
-SVC ngrams: 2 removed: 2, 0.93, 0.0, None
-SVC ngrams: 2 removed: 2, 0.9, 0.0, None
-SVC ngrams: 2 removed: 2, 0.97, 0.0, None
-SVC ngrams: 2 removed: 2, 0.93, 0.0, None
-SVC ngrams: 2 removed: 2, 0.97, 0.0, None
-SVC ngrams: 2 removed: 2, 0.94, 0.0, None
-SVC ngrams: 2 removed: 2, 0.95, 0.0, None
-SVC ngrams: 2 removed: 2, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 3, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 2 removed: 3, 0.93, 0.5454545454545454, 0.75
-NaiveBayes ngrams: 2 removed: 3, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 2 removed: 3, 0.94, 0.6, 0.75
-NaiveBayes ngrams: 2 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 3, 0.89, 0.7142857142857143, 0.35714285714285715
-NaiveBayes ngrams: 2 removed: 3, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 2 removed: 3, 0.97, 0.5, 1.0
-NaiveBayes ngrams: 2 removed: 3, 0.96, 0.8, 0.5714285714285714
-NaiveBayes ngrams: 2 removed: 3, 0.95, 0.75, 0.6666666666666666
+SVC ngrams: 2 removed: 2, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 2 removed: 2, 0.91, 0.9090909090909091, 0.5555555555555556
+SVC ngrams: 2 removed: 2, 0.82, 0.5714285714285714, 0.21052631578947367
+SVC ngrams: 2 removed: 2, 0.89, 0.8, 0.47058823529411764
+SVC ngrams: 2 removed: 2, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 2 removed: 2, 0.79, 0.8571428571428571, 0.23076923076923078
+SVC ngrams: 2 removed: 2, 0.8, 0.6666666666666666, 0.09523809523809523
+SVC ngrams: 2 removed: 2, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 2 removed: 2, 0.91, 0.8, 0.3333333333333333
+SVC ngrams: 2 removed: 2, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 2 removed: 3, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 2 removed: 3, 0.93, 0.5454545454545454, 0.75
+Naive Bayes ngrams: 2 removed: 3, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 2 removed: 3, 0.94, 0.6, 0.75
+Naive Bayes ngrams: 2 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 3, 0.89, 0.7142857142857143, 0.35714285714285715
+Naive Bayes ngrams: 2 removed: 3, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 2 removed: 3, 0.97, 0.5, 1.0
+Naive Bayes ngrams: 2 removed: 3, 0.96, 0.8, 0.5714285714285714
+Naive Bayes ngrams: 2 removed: 3, 0.95, 0.75, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 3, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 2 removed: 3, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 2 removed: 3, 0.93, 0.2857142857142857, 0.5
@@ -378,26 +378,26 @@ LogisticRegression ngrams: 2 removed: 3, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 2 removed: 3, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 2 removed: 3, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 3, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 3, 0.95, 0.0, None
-SVC ngrams: 2 removed: 3, 0.89, 0.0, None
-SVC ngrams: 2 removed: 3, 0.93, 0.0, None
-SVC ngrams: 2 removed: 3, 0.9, 0.0, None
-SVC ngrams: 2 removed: 3, 0.97, 0.0, None
-SVC ngrams: 2 removed: 3, 0.93, 0.0, None
-SVC ngrams: 2 removed: 3, 0.97, 0.0, None
-SVC ngrams: 2 removed: 3, 0.94, 0.0, None
-SVC ngrams: 2 removed: 3, 0.95, 0.0, None
-SVC ngrams: 2 removed: 3, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 4, 0.93, 0.2, 0.25
-NaiveBayes ngrams: 2 removed: 4, 0.92, 0.5454545454545454, 0.6666666666666666
-NaiveBayes ngrams: 2 removed: 4, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 2 removed: 4, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 2 removed: 4, 0.94, 0.6666666666666666, 0.2857142857142857
-NaiveBayes ngrams: 2 removed: 4, 0.88, 0.7142857142857143, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 4, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 2 removed: 4, 0.97, 0.5, 1.0
-NaiveBayes ngrams: 2 removed: 4, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 2 removed: 4, 0.94, 0.75, 0.6
+SVC ngrams: 2 removed: 3, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 2 removed: 3, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 2 removed: 3, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 2 removed: 3, 0.91, 0.7, 0.5384615384615384
+SVC ngrams: 2 removed: 3, 0.87, 1.0, 0.1875
+SVC ngrams: 2 removed: 3, 0.8, 0.8571428571428571, 0.24
+SVC ngrams: 2 removed: 3, 0.83, 0.6666666666666666, 0.1111111111111111
+SVC ngrams: 2 removed: 3, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 2 removed: 3, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 2 removed: 3, 0.88, 0.875, 0.3888888888888889
+Naive Bayes ngrams: 2 removed: 4, 0.93, 0.2, 0.25
+Naive Bayes ngrams: 2 removed: 4, 0.92, 0.5454545454545454, 0.6666666666666666
+Naive Bayes ngrams: 2 removed: 4, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 2 removed: 4, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 2 removed: 4, 0.94, 0.6666666666666666, 0.2857142857142857
+Naive Bayes ngrams: 2 removed: 4, 0.88, 0.7142857142857143, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 4, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 2 removed: 4, 0.97, 0.5, 1.0
+Naive Bayes ngrams: 2 removed: 4, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 2 removed: 4, 0.94, 0.75, 0.6
 LogisticRegression ngrams: 2 removed: 4, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 2 removed: 4, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 2 removed: 4, 0.93, 0.2857142857142857, 0.5
@@ -408,26 +408,26 @@ LogisticRegression ngrams: 2 removed: 4, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 2 removed: 4, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 2 removed: 4, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 4, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 4, 0.95, 0.0, None
-SVC ngrams: 2 removed: 4, 0.89, 0.0, None
-SVC ngrams: 2 removed: 4, 0.93, 0.0, None
-SVC ngrams: 2 removed: 4, 0.9, 0.0, None
-SVC ngrams: 2 removed: 4, 0.97, 0.0, None
-SVC ngrams: 2 removed: 4, 0.93, 0.0, None
-SVC ngrams: 2 removed: 4, 0.97, 0.0, None
-SVC ngrams: 2 removed: 4, 0.94, 0.0, None
-SVC ngrams: 2 removed: 4, 0.95, 0.0, None
-SVC ngrams: 2 removed: 4, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 5, 0.94, 0.4, 0.4
-NaiveBayes ngrams: 2 removed: 5, 0.93, 0.6363636363636364, 0.7
-NaiveBayes ngrams: 2 removed: 5, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 2 removed: 5, 0.96, 0.6, 1.0
-NaiveBayes ngrams: 2 removed: 5, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 2 removed: 5, 0.88, 0.7142857142857143, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 5, 0.92, 1.0, 0.2727272727272727
-NaiveBayes ngrams: 2 removed: 5, 0.97, 0.5, 1.0
-NaiveBayes ngrams: 2 removed: 5, 0.97, 1.0, 0.625
-NaiveBayes ngrams: 2 removed: 5, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 2 removed: 4, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 2 removed: 4, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 2 removed: 4, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 2 removed: 4, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 2 removed: 4, 0.86, 0.6666666666666666, 0.13333333333333333
+SVC ngrams: 2 removed: 4, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 2 removed: 4, 0.82, 0.6666666666666666, 0.10526315789473684
+SVC ngrams: 2 removed: 4, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 2 removed: 4, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 2 removed: 4, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 2 removed: 5, 0.94, 0.4, 0.4
+Naive Bayes ngrams: 2 removed: 5, 0.93, 0.6363636363636364, 0.7
+Naive Bayes ngrams: 2 removed: 5, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 2 removed: 5, 0.96, 0.6, 1.0
+Naive Bayes ngrams: 2 removed: 5, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 2 removed: 5, 0.88, 0.7142857142857143, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 5, 0.92, 1.0, 0.2727272727272727
+Naive Bayes ngrams: 2 removed: 5, 0.97, 0.5, 1.0
+Naive Bayes ngrams: 2 removed: 5, 0.97, 1.0, 0.625
+Naive Bayes ngrams: 2 removed: 5, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 2 removed: 5, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 2 removed: 5, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 2 removed: 5, 0.93, 0.2857142857142857, 0.5
@@ -438,26 +438,26 @@ LogisticRegression ngrams: 2 removed: 5, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 2 removed: 5, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 2 removed: 5, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 5, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 5, 0.95, 0.0, None
-SVC ngrams: 2 removed: 5, 0.89, 0.0, None
-SVC ngrams: 2 removed: 5, 0.93, 0.0, None
-SVC ngrams: 2 removed: 5, 0.9, 0.0, None
-SVC ngrams: 2 removed: 5, 0.97, 0.0, None
-SVC ngrams: 2 removed: 5, 0.93, 0.0, None
-SVC ngrams: 2 removed: 5, 0.97, 0.0, None
-SVC ngrams: 2 removed: 5, 0.94, 0.0, None
-SVC ngrams: 2 removed: 5, 0.95, 0.0, None
-SVC ngrams: 2 removed: 5, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 6, 0.94, 0.4, 0.4
-NaiveBayes ngrams: 2 removed: 6, 0.93, 0.7272727272727273, 0.6666666666666666
-NaiveBayes ngrams: 2 removed: 6, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 2 removed: 6, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 2 removed: 6, 0.94, 1.0, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 6, 0.88, 0.7142857142857143, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 6, 0.92, 1.0, 0.2727272727272727
-NaiveBayes ngrams: 2 removed: 6, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 2 removed: 6, 0.96, 1.0, 0.5555555555555556
-NaiveBayes ngrams: 2 removed: 6, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 2 removed: 5, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 2 removed: 5, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 2 removed: 5, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 2 removed: 5, 0.9, 0.8, 0.5
+SVC ngrams: 2 removed: 5, 0.86, 1.0, 0.17647058823529413
+SVC ngrams: 2 removed: 5, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 2 removed: 5, 0.81, 0.6666666666666666, 0.1
+SVC ngrams: 2 removed: 5, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 2 removed: 5, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 2 removed: 5, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 2 removed: 6, 0.94, 0.4, 0.4
+Naive Bayes ngrams: 2 removed: 6, 0.93, 0.7272727272727273, 0.6666666666666666
+Naive Bayes ngrams: 2 removed: 6, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 2 removed: 6, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 2 removed: 6, 0.94, 1.0, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 6, 0.88, 0.7142857142857143, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 6, 0.92, 1.0, 0.2727272727272727
+Naive Bayes ngrams: 2 removed: 6, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 2 removed: 6, 0.96, 1.0, 0.5555555555555556
+Naive Bayes ngrams: 2 removed: 6, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 2 removed: 6, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 2 removed: 6, 0.91, 0.2727272727272727, 0.75
 LogisticRegression ngrams: 2 removed: 6, 0.93, 0.2857142857142857, 0.5
@@ -468,26 +468,26 @@ LogisticRegression ngrams: 2 removed: 6, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 2 removed: 6, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 2 removed: 6, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 6, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 2 removed: 6, 0.95, 0.0, None
-SVC ngrams: 2 removed: 6, 0.89, 0.0, None
-SVC ngrams: 2 removed: 6, 0.93, 0.0, None
-SVC ngrams: 2 removed: 6, 0.9, 0.0, None
-SVC ngrams: 2 removed: 6, 0.97, 0.0, None
-SVC ngrams: 2 removed: 6, 0.93, 0.0, None
-SVC ngrams: 2 removed: 6, 0.97, 0.0, None
-SVC ngrams: 2 removed: 6, 0.94, 0.0, None
-SVC ngrams: 2 removed: 6, 0.95, 0.0, None
-SVC ngrams: 2 removed: 6, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 7, 0.94, 0.4, 0.4
-NaiveBayes ngrams: 2 removed: 7, 0.91, 0.6363636363636364, 0.5833333333333334
-NaiveBayes ngrams: 2 removed: 7, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 2 removed: 7, 0.93, 0.5, 0.7142857142857143
-NaiveBayes ngrams: 2 removed: 7, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 2 removed: 7, 0.89, 0.7142857142857143, 0.35714285714285715
-NaiveBayes ngrams: 2 removed: 7, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 2 removed: 7, 0.94, 0.3333333333333333, 0.5
-NaiveBayes ngrams: 2 removed: 7, 0.93, 1.0, 0.4166666666666667
-NaiveBayes ngrams: 2 removed: 7, 0.94, 0.75, 0.6
+SVC ngrams: 2 removed: 6, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 2 removed: 6, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 2 removed: 6, 0.82, 0.5714285714285714, 0.21052631578947367
+SVC ngrams: 2 removed: 6, 0.88, 0.6, 0.42857142857142855
+SVC ngrams: 2 removed: 6, 0.85, 1.0, 0.16666666666666666
+SVC ngrams: 2 removed: 6, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 2 removed: 6, 0.83, 1.0, 0.15
+SVC ngrams: 2 removed: 6, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 2 removed: 6, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 2 removed: 6, 0.88, 0.875, 0.3888888888888889
+Naive Bayes ngrams: 2 removed: 7, 0.94, 0.4, 0.4
+Naive Bayes ngrams: 2 removed: 7, 0.91, 0.6363636363636364, 0.5833333333333334
+Naive Bayes ngrams: 2 removed: 7, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 2 removed: 7, 0.93, 0.5, 0.7142857142857143
+Naive Bayes ngrams: 2 removed: 7, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 2 removed: 7, 0.89, 0.7142857142857143, 0.35714285714285715
+Naive Bayes ngrams: 2 removed: 7, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 2 removed: 7, 0.94, 0.3333333333333333, 0.5
+Naive Bayes ngrams: 2 removed: 7, 0.93, 1.0, 0.4166666666666667
+Naive Bayes ngrams: 2 removed: 7, 0.94, 0.75, 0.6
 LogisticRegression ngrams: 2 removed: 7, 0.95, 0.2, 0.5
 LogisticRegression ngrams: 2 removed: 7, 0.89, 0.18181818181818182, 0.5
 LogisticRegression ngrams: 2 removed: 7, 0.92, 0.2857142857142857, 0.4
@@ -498,26 +498,26 @@ LogisticRegression ngrams: 2 removed: 7, 0.96, 0.6666666666666666, 0.4
 LogisticRegression ngrams: 2 removed: 7, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 7, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 7, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 7, 0.95, 0.0, None
-SVC ngrams: 2 removed: 7, 0.89, 0.0, None
-SVC ngrams: 2 removed: 7, 0.93, 0.0, None
-SVC ngrams: 2 removed: 7, 0.9, 0.0, None
-SVC ngrams: 2 removed: 7, 0.97, 0.0, None
-SVC ngrams: 2 removed: 7, 0.93, 0.0, None
-SVC ngrams: 2 removed: 7, 0.97, 0.0, None
-SVC ngrams: 2 removed: 7, 0.94, 0.0, None
-SVC ngrams: 2 removed: 7, 0.95, 0.0, None
-SVC ngrams: 2 removed: 7, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 8, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 8, 0.9, 0.7272727272727273, 0.5333333333333333
-NaiveBayes ngrams: 2 removed: 8, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 2 removed: 8, 0.91, 0.5, 0.5555555555555556
-NaiveBayes ngrams: 2 removed: 8, 0.97, 1.0, 0.5
-NaiveBayes ngrams: 2 removed: 8, 0.9, 0.7142857142857143, 0.38461538461538464
-NaiveBayes ngrams: 2 removed: 8, 0.91, 1.0, 0.25
-NaiveBayes ngrams: 2 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 2 removed: 8, 0.93, 1.0, 0.4166666666666667
-NaiveBayes ngrams: 2 removed: 8, 0.92, 0.75, 0.5
+SVC ngrams: 2 removed: 7, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 2 removed: 7, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 2 removed: 7, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 2 removed: 7, 0.88, 0.7, 0.4375
+SVC ngrams: 2 removed: 7, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 2 removed: 7, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 2 removed: 7, 0.83, 1.0, 0.15
+SVC ngrams: 2 removed: 7, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 2 removed: 7, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 2 removed: 7, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 2 removed: 8, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 8, 0.9, 0.7272727272727273, 0.5333333333333333
+Naive Bayes ngrams: 2 removed: 8, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 2 removed: 8, 0.91, 0.5, 0.5555555555555556
+Naive Bayes ngrams: 2 removed: 8, 0.97, 1.0, 0.5
+Naive Bayes ngrams: 2 removed: 8, 0.9, 0.7142857142857143, 0.38461538461538464
+Naive Bayes ngrams: 2 removed: 8, 0.91, 1.0, 0.25
+Naive Bayes ngrams: 2 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 2 removed: 8, 0.93, 1.0, 0.4166666666666667
+Naive Bayes ngrams: 2 removed: 8, 0.92, 0.75, 0.5
 LogisticRegression ngrams: 2 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 8, 0.89, 0.18181818181818182, 0.5
 LogisticRegression ngrams: 2 removed: 8, 0.92, 0.2857142857142857, 0.4
@@ -528,26 +528,26 @@ LogisticRegression ngrams: 2 removed: 8, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 2 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 8, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 8, 0.95, 0.0, None
-SVC ngrams: 2 removed: 8, 0.89, 0.0, None
-SVC ngrams: 2 removed: 8, 0.93, 0.0, None
-SVC ngrams: 2 removed: 8, 0.9, 0.0, None
-SVC ngrams: 2 removed: 8, 0.97, 0.0, None
-SVC ngrams: 2 removed: 8, 0.93, 0.0, None
-SVC ngrams: 2 removed: 8, 0.97, 0.0, None
-SVC ngrams: 2 removed: 8, 0.94, 0.0, None
-SVC ngrams: 2 removed: 8, 0.95, 0.0, None
-SVC ngrams: 2 removed: 8, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 9, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 9, 0.92, 0.7272727272727273, 0.6153846153846154
-NaiveBayes ngrams: 2 removed: 9, 0.92, 0.42857142857142855, 0.42857142857142855
-NaiveBayes ngrams: 2 removed: 9, 0.91, 0.5, 0.5555555555555556
-NaiveBayes ngrams: 2 removed: 9, 0.97, 1.0, 0.5
-NaiveBayes ngrams: 2 removed: 9, 0.93, 0.8571428571428571, 0.5
-NaiveBayes ngrams: 2 removed: 9, 0.91, 0.6666666666666666, 0.2
-NaiveBayes ngrams: 2 removed: 9, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 2 removed: 9, 0.95, 1.0, 0.5
-NaiveBayes ngrams: 2 removed: 9, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 2 removed: 8, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 2 removed: 8, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 2 removed: 8, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 2 removed: 8, 0.88, 0.7, 0.4375
+SVC ngrams: 2 removed: 8, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 2 removed: 8, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 2 removed: 8, 0.83, 1.0, 0.15
+SVC ngrams: 2 removed: 8, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 2 removed: 8, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 2 removed: 8, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 2 removed: 9, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 9, 0.92, 0.7272727272727273, 0.6153846153846154
+Naive Bayes ngrams: 2 removed: 9, 0.92, 0.42857142857142855, 0.42857142857142855
+Naive Bayes ngrams: 2 removed: 9, 0.91, 0.5, 0.5555555555555556
+Naive Bayes ngrams: 2 removed: 9, 0.97, 1.0, 0.5
+Naive Bayes ngrams: 2 removed: 9, 0.93, 0.8571428571428571, 0.5
+Naive Bayes ngrams: 2 removed: 9, 0.91, 0.6666666666666666, 0.2
+Naive Bayes ngrams: 2 removed: 9, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 2 removed: 9, 0.95, 1.0, 0.5
+Naive Bayes ngrams: 2 removed: 9, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 2 removed: 9, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 2 removed: 9, 0.92, 0.36363636363636365, 0.8
 LogisticRegression ngrams: 2 removed: 9, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -558,26 +558,26 @@ LogisticRegression ngrams: 2 removed: 9, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 2 removed: 9, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 9, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 9, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 9, 0.95, 0.0, None
-SVC ngrams: 2 removed: 9, 0.89, 0.0, None
-SVC ngrams: 2 removed: 9, 0.93, 0.0, None
-SVC ngrams: 2 removed: 9, 0.9, 0.0, None
-SVC ngrams: 2 removed: 9, 0.97, 0.0, None
-SVC ngrams: 2 removed: 9, 0.93, 0.0, None
-SVC ngrams: 2 removed: 9, 0.97, 0.0, None
-SVC ngrams: 2 removed: 9, 0.94, 0.0, None
-SVC ngrams: 2 removed: 9, 0.95, 0.0, None
-SVC ngrams: 2 removed: 9, 0.92, 0.0, None
-NaiveBayes ngrams: 2 removed: 10, 0.94, 0.4, 0.4
-NaiveBayes ngrams: 2 removed: 10, 0.91, 0.7272727272727273, 0.5714285714285714
-NaiveBayes ngrams: 2 removed: 10, 0.92, 0.42857142857142855, 0.42857142857142855
-NaiveBayes ngrams: 2 removed: 10, 0.91, 0.5, 0.5555555555555556
-NaiveBayes ngrams: 2 removed: 10, 0.94, 1.0, 0.3333333333333333
-NaiveBayes ngrams: 2 removed: 10, 0.92, 0.8571428571428571, 0.46153846153846156
-NaiveBayes ngrams: 2 removed: 10, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 2 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 2 removed: 10, 0.95, 1.0, 0.5
-NaiveBayes ngrams: 2 removed: 10, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 2 removed: 9, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 2 removed: 9, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 2 removed: 9, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 2 removed: 9, 0.87, 0.7, 0.4117647058823529
+SVC ngrams: 2 removed: 9, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 2 removed: 9, 0.8, 0.8571428571428571, 0.24
+SVC ngrams: 2 removed: 9, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 2 removed: 9, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 2 removed: 9, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 2 removed: 9, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 2 removed: 10, 0.94, 0.4, 0.4
+Naive Bayes ngrams: 2 removed: 10, 0.91, 0.7272727272727273, 0.5714285714285714
+Naive Bayes ngrams: 2 removed: 10, 0.92, 0.42857142857142855, 0.42857142857142855
+Naive Bayes ngrams: 2 removed: 10, 0.91, 0.5, 0.5555555555555556
+Naive Bayes ngrams: 2 removed: 10, 0.94, 1.0, 0.3333333333333333
+Naive Bayes ngrams: 2 removed: 10, 0.92, 0.8571428571428571, 0.46153846153846156
+Naive Bayes ngrams: 2 removed: 10, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 2 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 2 removed: 10, 0.95, 1.0, 0.5
+Naive Bayes ngrams: 2 removed: 10, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 2 removed: 10, 0.94, 0.2, 0.3333333333333333
 LogisticRegression ngrams: 2 removed: 10, 0.9, 0.2727272727272727, 0.6
 LogisticRegression ngrams: 2 removed: 10, 0.93, 0.2857142857142857, 0.5
@@ -588,26 +588,26 @@ LogisticRegression ngrams: 2 removed: 10, 0.96, 0.3333333333333333, 0.3333333333
 LogisticRegression ngrams: 2 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 10, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 2 removed: 10, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 2 removed: 10, 0.95, 0.0, None
-SVC ngrams: 2 removed: 10, 0.89, 0.0, None
-SVC ngrams: 2 removed: 10, 0.93, 0.0, None
-SVC ngrams: 2 removed: 10, 0.9, 0.0, None
-SVC ngrams: 2 removed: 10, 0.97, 0.0, None
-SVC ngrams: 2 removed: 10, 0.93, 0.0, None
-SVC ngrams: 2 removed: 10, 0.97, 0.0, None
-SVC ngrams: 2 removed: 10, 0.94, 0.0, None
-SVC ngrams: 2 removed: 10, 0.95, 0.0, None
-SVC ngrams: 2 removed: 10, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 1, 0.88, 0.0, 0.0
-NaiveBayes ngrams: 3 removed: 1, 0.86, 0.18181818181818182, 0.2857142857142857
-NaiveBayes ngrams: 3 removed: 1, 0.85, 0.14285714285714285, 0.1
-NaiveBayes ngrams: 3 removed: 1, 0.87, 0.3, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 1, 0.98, 0.6666666666666666, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 1, 0.9, 0.5714285714285714, 0.36363636363636365
-NaiveBayes ngrams: 3 removed: 1, 0.94, 0.6666666666666666, 0.2857142857142857
-NaiveBayes ngrams: 3 removed: 1, 0.95, 0.5, 0.6
-NaiveBayes ngrams: 3 removed: 1, 0.96, 0.6, 0.6
-NaiveBayes ngrams: 3 removed: 1, 0.92, 0.5, 0.5
+SVC ngrams: 2 removed: 10, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 2 removed: 10, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 2 removed: 10, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 2 removed: 10, 0.86, 0.7, 0.3888888888888889
+SVC ngrams: 2 removed: 10, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 2 removed: 10, 0.8, 0.8571428571428571, 0.24
+SVC ngrams: 2 removed: 10, 0.85, 1.0, 0.16666666666666666
+SVC ngrams: 2 removed: 10, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 2 removed: 10, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 2 removed: 10, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 3 removed: 1, 0.88, 0.0, 0.0
+Naive Bayes ngrams: 3 removed: 1, 0.86, 0.18181818181818182, 0.2857142857142857
+Naive Bayes ngrams: 3 removed: 1, 0.85, 0.14285714285714285, 0.1
+Naive Bayes ngrams: 3 removed: 1, 0.87, 0.3, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 1, 0.98, 0.6666666666666666, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 1, 0.9, 0.5714285714285714, 0.36363636363636365
+Naive Bayes ngrams: 3 removed: 1, 0.94, 0.6666666666666666, 0.2857142857142857
+Naive Bayes ngrams: 3 removed: 1, 0.95, 0.5, 0.6
+Naive Bayes ngrams: 3 removed: 1, 0.96, 0.6, 0.6
+Naive Bayes ngrams: 3 removed: 1, 0.92, 0.5, 0.5
 LogisticRegression ngrams: 3 removed: 1, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 3 removed: 1, 0.93, 0.36363636363636365, 1.0
 LogisticRegression ngrams: 3 removed: 1, 0.92, 0.2857142857142857, 0.4
@@ -618,26 +618,26 @@ LogisticRegression ngrams: 3 removed: 1, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 3 removed: 1, 0.97, 0.5, 1.0
 LogisticRegression ngrams: 3 removed: 1, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 1, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 1, 0.95, 0.0, None
-SVC ngrams: 3 removed: 1, 0.89, 0.0, None
-SVC ngrams: 3 removed: 1, 0.93, 0.0, None
-SVC ngrams: 3 removed: 1, 0.9, 0.0, None
-SVC ngrams: 3 removed: 1, 0.97, 0.0, None
-SVC ngrams: 3 removed: 1, 0.93, 0.0, None
-SVC ngrams: 3 removed: 1, 0.97, 0.0, None
-SVC ngrams: 3 removed: 1, 0.94, 0.0, None
-SVC ngrams: 3 removed: 1, 0.95, 0.0, None
-SVC ngrams: 3 removed: 1, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 2, 0.94, 0.2, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 2, 0.94, 0.5454545454545454, 0.8571428571428571
-NaiveBayes ngrams: 3 removed: 2, 0.89, 0.5714285714285714, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 2, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 2, 0.97, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 3 removed: 2, 0.92, 0.7142857142857143, 0.45454545454545453
-NaiveBayes ngrams: 3 removed: 2, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 3 removed: 2, 0.94, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 3 removed: 2, 0.95, 0.6, 0.5
-NaiveBayes ngrams: 3 removed: 2, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 3 removed: 1, 0.91, 0.4, 0.25
+SVC ngrams: 3 removed: 1, 0.85, 0.9090909090909091, 0.4166666666666667
+SVC ngrams: 3 removed: 1, 0.88, 0.42857142857142855, 0.2727272727272727
+SVC ngrams: 3 removed: 1, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 3 removed: 1, 0.91, 1.0, 0.25
+SVC ngrams: 3 removed: 1, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 3 removed: 1, 0.82, 0.6666666666666666, 0.10526315789473684
+SVC ngrams: 3 removed: 1, 0.92, 0.6666666666666666, 0.4
+SVC ngrams: 3 removed: 1, 0.94, 0.8, 0.4444444444444444
+SVC ngrams: 3 removed: 1, 0.83, 0.875, 0.30434782608695654
+Naive Bayes ngrams: 3 removed: 2, 0.94, 0.2, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 2, 0.94, 0.5454545454545454, 0.8571428571428571
+Naive Bayes ngrams: 3 removed: 2, 0.89, 0.5714285714285714, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 2, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 2, 0.97, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 3 removed: 2, 0.92, 0.7142857142857143, 0.45454545454545453
+Naive Bayes ngrams: 3 removed: 2, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 3 removed: 2, 0.94, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 3 removed: 2, 0.95, 0.6, 0.5
+Naive Bayes ngrams: 3 removed: 2, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 3 removed: 2, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 3 removed: 2, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 3 removed: 2, 0.93, 0.2857142857142857, 0.5
@@ -648,26 +648,26 @@ LogisticRegression ngrams: 3 removed: 2, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 3 removed: 2, 0.97, 0.5, 1.0
 LogisticRegression ngrams: 3 removed: 2, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 2, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 2, 0.95, 0.0, None
-SVC ngrams: 3 removed: 2, 0.89, 0.0, None
-SVC ngrams: 3 removed: 2, 0.93, 0.0, None
-SVC ngrams: 3 removed: 2, 0.9, 0.0, None
-SVC ngrams: 3 removed: 2, 0.97, 0.0, None
-SVC ngrams: 3 removed: 2, 0.93, 0.0, None
-SVC ngrams: 3 removed: 2, 0.97, 0.0, None
-SVC ngrams: 3 removed: 2, 0.94, 0.0, None
-SVC ngrams: 3 removed: 2, 0.95, 0.0, None
-SVC ngrams: 3 removed: 2, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 3, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 3 removed: 3, 0.94, 0.6363636363636364, 0.7777777777777778
-NaiveBayes ngrams: 3 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 3 removed: 3, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 3, 0.88, 0.7142857142857143, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 3, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 3 removed: 3, 0.96, 0.6666666666666666, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 3, 0.95, 0.6, 0.5
-NaiveBayes ngrams: 3 removed: 3, 0.94, 0.75, 0.6
+SVC ngrams: 3 removed: 2, 0.87, 0.4, 0.16666666666666666
+SVC ngrams: 3 removed: 2, 0.93, 0.8181818181818182, 0.6428571428571429
+SVC ngrams: 3 removed: 2, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 3 removed: 2, 0.91, 0.8, 0.5333333333333333
+SVC ngrams: 3 removed: 2, 0.87, 0.6666666666666666, 0.14285714285714285
+SVC ngrams: 3 removed: 2, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 3 removed: 2, 0.8, 0.6666666666666666, 0.09523809523809523
+SVC ngrams: 3 removed: 2, 0.93, 0.6666666666666666, 0.4444444444444444
+SVC ngrams: 3 removed: 2, 0.92, 0.8, 0.36363636363636365
+SVC ngrams: 3 removed: 2, 0.89, 0.875, 0.4117647058823529
+Naive Bayes ngrams: 3 removed: 3, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 3 removed: 3, 0.94, 0.6363636363636364, 0.7777777777777778
+Naive Bayes ngrams: 3 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 3 removed: 3, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 3, 0.88, 0.7142857142857143, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 3, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 3 removed: 3, 0.96, 0.6666666666666666, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 3, 0.95, 0.6, 0.5
+Naive Bayes ngrams: 3 removed: 3, 0.94, 0.75, 0.6
 LogisticRegression ngrams: 3 removed: 3, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 3 removed: 3, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 3 removed: 3, 0.92, 0.2857142857142857, 0.4
@@ -678,26 +678,26 @@ LogisticRegression ngrams: 3 removed: 3, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 3 removed: 3, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 3 removed: 3, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 3, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 3, 0.95, 0.0, None
-SVC ngrams: 3 removed: 3, 0.89, 0.0, None
-SVC ngrams: 3 removed: 3, 0.93, 0.0, None
-SVC ngrams: 3 removed: 3, 0.9, 0.0, None
-SVC ngrams: 3 removed: 3, 0.97, 0.0, None
-SVC ngrams: 3 removed: 3, 0.93, 0.0, None
-SVC ngrams: 3 removed: 3, 0.97, 0.0, None
-SVC ngrams: 3 removed: 3, 0.94, 0.0, None
-SVC ngrams: 3 removed: 3, 0.95, 0.0, None
-SVC ngrams: 3 removed: 3, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 4, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 3 removed: 4, 0.93, 0.7272727272727273, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 4, 0.87, 0.42857142857142855, 0.25
-NaiveBayes ngrams: 3 removed: 4, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 4, 0.95, 0.3333333333333333, 0.25
-NaiveBayes ngrams: 3 removed: 4, 0.88, 0.7142857142857143, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 4, 0.91, 0.6666666666666666, 0.2
-NaiveBayes ngrams: 3 removed: 4, 0.96, 0.6666666666666666, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 4, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 3 removed: 4, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 3 removed: 3, 0.89, 0.4, 0.2
+SVC ngrams: 3 removed: 3, 0.93, 0.8181818181818182, 0.6428571428571429
+SVC ngrams: 3 removed: 3, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 3 removed: 3, 0.91, 0.7, 0.5384615384615384
+SVC ngrams: 3 removed: 3, 0.89, 1.0, 0.21428571428571427
+SVC ngrams: 3 removed: 3, 0.83, 0.8571428571428571, 0.2727272727272727
+SVC ngrams: 3 removed: 3, 0.83, 0.6666666666666666, 0.1111111111111111
+SVC ngrams: 3 removed: 3, 0.93, 0.6666666666666666, 0.4444444444444444
+SVC ngrams: 3 removed: 3, 0.93, 0.8, 0.4
+SVC ngrams: 3 removed: 3, 0.89, 0.875, 0.4117647058823529
+Naive Bayes ngrams: 3 removed: 4, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 3 removed: 4, 0.93, 0.7272727272727273, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 4, 0.87, 0.42857142857142855, 0.25
+Naive Bayes ngrams: 3 removed: 4, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 4, 0.95, 0.3333333333333333, 0.25
+Naive Bayes ngrams: 3 removed: 4, 0.88, 0.7142857142857143, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 4, 0.91, 0.6666666666666666, 0.2
+Naive Bayes ngrams: 3 removed: 4, 0.96, 0.6666666666666666, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 4, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 3 removed: 4, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 3 removed: 4, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 3 removed: 4, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 3 removed: 4, 0.93, 0.2857142857142857, 0.5
@@ -708,26 +708,26 @@ LogisticRegression ngrams: 3 removed: 4, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 3 removed: 4, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 3 removed: 4, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 4, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 4, 0.95, 0.0, None
-SVC ngrams: 3 removed: 4, 0.89, 0.0, None
-SVC ngrams: 3 removed: 4, 0.93, 0.0, None
-SVC ngrams: 3 removed: 4, 0.9, 0.0, None
-SVC ngrams: 3 removed: 4, 0.97, 0.0, None
-SVC ngrams: 3 removed: 4, 0.93, 0.0, None
-SVC ngrams: 3 removed: 4, 0.97, 0.0, None
-SVC ngrams: 3 removed: 4, 0.94, 0.0, None
-SVC ngrams: 3 removed: 4, 0.95, 0.0, None
-SVC ngrams: 3 removed: 4, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 5, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 3 removed: 5, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 3 removed: 5, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 3 removed: 5, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 5, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 3 removed: 5, 0.87, 0.7142857142857143, 0.3125
-NaiveBayes ngrams: 3 removed: 5, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 3 removed: 5, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 3 removed: 5, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 3 removed: 5, 0.92, 0.625, 0.5
+SVC ngrams: 3 removed: 4, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 3 removed: 4, 0.92, 0.8181818181818182, 0.6
+SVC ngrams: 3 removed: 4, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 3 removed: 4, 0.9, 0.7, 0.5
+SVC ngrams: 3 removed: 4, 0.88, 0.6666666666666666, 0.15384615384615385
+SVC ngrams: 3 removed: 4, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 3 removed: 4, 0.81, 0.6666666666666666, 0.1
+SVC ngrams: 3 removed: 4, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 3 removed: 4, 0.92, 0.8, 0.36363636363636365
+SVC ngrams: 3 removed: 4, 0.85, 0.875, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 5, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 3 removed: 5, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 3 removed: 5, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 3 removed: 5, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 5, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 3 removed: 5, 0.87, 0.7142857142857143, 0.3125
+Naive Bayes ngrams: 3 removed: 5, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 3 removed: 5, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 3 removed: 5, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 3 removed: 5, 0.92, 0.625, 0.5
 LogisticRegression ngrams: 3 removed: 5, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 3 removed: 5, 0.93, 0.36363636363636365, 1.0
 LogisticRegression ngrams: 3 removed: 5, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -738,26 +738,26 @@ LogisticRegression ngrams: 3 removed: 5, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 3 removed: 5, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 3 removed: 5, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 5, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 3 removed: 5, 0.95, 0.0, None
-SVC ngrams: 3 removed: 5, 0.89, 0.0, None
-SVC ngrams: 3 removed: 5, 0.93, 0.0, None
-SVC ngrams: 3 removed: 5, 0.9, 0.0, None
-SVC ngrams: 3 removed: 5, 0.97, 0.0, None
-SVC ngrams: 3 removed: 5, 0.93, 0.0, None
-SVC ngrams: 3 removed: 5, 0.97, 0.0, None
-SVC ngrams: 3 removed: 5, 0.94, 0.0, None
-SVC ngrams: 3 removed: 5, 0.95, 0.0, None
-SVC ngrams: 3 removed: 5, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 6, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 6, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 3 removed: 6, 0.9, 0.42857142857142855, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 6, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 6, 0.94, 1.0, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 6, 0.87, 0.7142857142857143, 0.3125
-NaiveBayes ngrams: 3 removed: 6, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 3 removed: 6, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 3 removed: 6, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 3 removed: 6, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 3 removed: 5, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 3 removed: 5, 0.91, 0.8181818181818182, 0.5625
+SVC ngrams: 3 removed: 5, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 3 removed: 5, 0.88, 0.6, 0.42857142857142855
+SVC ngrams: 3 removed: 5, 0.86, 0.6666666666666666, 0.13333333333333333
+SVC ngrams: 3 removed: 5, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 3 removed: 5, 0.81, 0.6666666666666666, 0.1
+SVC ngrams: 3 removed: 5, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 3 removed: 5, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 3 removed: 5, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 3 removed: 6, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 6, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 3 removed: 6, 0.9, 0.42857142857142855, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 6, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 6, 0.94, 1.0, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 6, 0.87, 0.7142857142857143, 0.3125
+Naive Bayes ngrams: 3 removed: 6, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 3 removed: 6, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 3 removed: 6, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 3 removed: 6, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 3 removed: 6, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 3 removed: 6, 0.92, 0.36363636363636365, 0.8
 LogisticRegression ngrams: 3 removed: 6, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -768,26 +768,26 @@ LogisticRegression ngrams: 3 removed: 6, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 3 removed: 6, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 3 removed: 6, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 6, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 3 removed: 6, 0.95, 0.0, None
-SVC ngrams: 3 removed: 6, 0.89, 0.0, None
-SVC ngrams: 3 removed: 6, 0.93, 0.0, None
-SVC ngrams: 3 removed: 6, 0.9, 0.0, None
-SVC ngrams: 3 removed: 6, 0.97, 0.0, None
-SVC ngrams: 3 removed: 6, 0.93, 0.0, None
-SVC ngrams: 3 removed: 6, 0.97, 0.0, None
-SVC ngrams: 3 removed: 6, 0.94, 0.0, None
-SVC ngrams: 3 removed: 6, 0.95, 0.0, None
-SVC ngrams: 3 removed: 6, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 7, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 3 removed: 7, 0.93, 0.7272727272727273, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 7, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 3 removed: 7, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 3 removed: 7, 0.97, 1.0, 0.5
-NaiveBayes ngrams: 3 removed: 7, 0.89, 0.8571428571428571, 0.375
-NaiveBayes ngrams: 3 removed: 7, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 3 removed: 7, 0.96, 0.5, 0.75
-NaiveBayes ngrams: 3 removed: 7, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 3 removed: 7, 0.92, 0.75, 0.5
+SVC ngrams: 3 removed: 6, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 3 removed: 6, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 3 removed: 6, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 3 removed: 6, 0.88, 0.6, 0.42857142857142855
+SVC ngrams: 3 removed: 6, 0.87, 1.0, 0.1875
+SVC ngrams: 3 removed: 6, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 3 removed: 6, 0.83, 1.0, 0.15
+SVC ngrams: 3 removed: 6, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 3 removed: 6, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 3 removed: 6, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 3 removed: 7, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 3 removed: 7, 0.93, 0.7272727272727273, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 7, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 3 removed: 7, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 3 removed: 7, 0.97, 1.0, 0.5
+Naive Bayes ngrams: 3 removed: 7, 0.89, 0.8571428571428571, 0.375
+Naive Bayes ngrams: 3 removed: 7, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 3 removed: 7, 0.96, 0.5, 0.75
+Naive Bayes ngrams: 3 removed: 7, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 3 removed: 7, 0.92, 0.75, 0.5
 LogisticRegression ngrams: 3 removed: 7, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 7, 0.91, 0.36363636363636365, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 7, 0.93, 0.2857142857142857, 0.5
@@ -798,26 +798,26 @@ LogisticRegression ngrams: 3 removed: 7, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 3 removed: 7, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 7, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 7, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 7, 0.95, 0.0, None
-SVC ngrams: 3 removed: 7, 0.89, 0.0, None
-SVC ngrams: 3 removed: 7, 0.93, 0.0, None
-SVC ngrams: 3 removed: 7, 0.9, 0.0, None
-SVC ngrams: 3 removed: 7, 0.97, 0.0, None
-SVC ngrams: 3 removed: 7, 0.93, 0.0, None
-SVC ngrams: 3 removed: 7, 0.97, 0.0, None
-SVC ngrams: 3 removed: 7, 0.94, 0.0, None
-SVC ngrams: 3 removed: 7, 0.95, 0.0, None
-SVC ngrams: 3 removed: 7, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 8, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 8, 0.93, 0.8181818181818182, 0.6428571428571429
-NaiveBayes ngrams: 3 removed: 8, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 3 removed: 8, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 3 removed: 8, 0.99, 1.0, 0.75
-NaiveBayes ngrams: 3 removed: 8, 0.9, 0.8571428571428571, 0.4
-NaiveBayes ngrams: 3 removed: 8, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 3 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 3 removed: 8, 0.96, 1.0, 0.5555555555555556
-NaiveBayes ngrams: 3 removed: 8, 0.92, 0.75, 0.5
+SVC ngrams: 3 removed: 7, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 3 removed: 7, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 3 removed: 7, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 3 removed: 7, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 3 removed: 7, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 3 removed: 7, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 3 removed: 7, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 3 removed: 7, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 3 removed: 7, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 3 removed: 7, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 3 removed: 8, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 8, 0.93, 0.8181818181818182, 0.6428571428571429
+Naive Bayes ngrams: 3 removed: 8, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 3 removed: 8, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 3 removed: 8, 0.99, 1.0, 0.75
+Naive Bayes ngrams: 3 removed: 8, 0.9, 0.8571428571428571, 0.4
+Naive Bayes ngrams: 3 removed: 8, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 3 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 3 removed: 8, 0.96, 1.0, 0.5555555555555556
+Naive Bayes ngrams: 3 removed: 8, 0.92, 0.75, 0.5
 LogisticRegression ngrams: 3 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 8, 0.9, 0.36363636363636365, 0.5714285714285714
 LogisticRegression ngrams: 3 removed: 8, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -828,26 +828,26 @@ LogisticRegression ngrams: 3 removed: 8, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 3 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 8, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 8, 0.95, 0.0, None
-SVC ngrams: 3 removed: 8, 0.89, 0.0, None
-SVC ngrams: 3 removed: 8, 0.93, 0.0, None
-SVC ngrams: 3 removed: 8, 0.9, 0.0, None
-SVC ngrams: 3 removed: 8, 0.97, 0.0, None
-SVC ngrams: 3 removed: 8, 0.93, 0.0, None
-SVC ngrams: 3 removed: 8, 0.97, 0.0, None
-SVC ngrams: 3 removed: 8, 0.94, 0.0, None
-SVC ngrams: 3 removed: 8, 0.95, 0.0, None
-SVC ngrams: 3 removed: 8, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 9, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 9, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 3 removed: 9, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 3 removed: 9, 0.91, 0.5, 0.5555555555555556
-NaiveBayes ngrams: 3 removed: 9, 0.97, 1.0, 0.5
-NaiveBayes ngrams: 3 removed: 9, 0.91, 0.8571428571428571, 0.42857142857142855
-NaiveBayes ngrams: 3 removed: 9, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 3 removed: 9, 0.95, 0.5, 0.6
-NaiveBayes ngrams: 3 removed: 9, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 3 removed: 9, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 3 removed: 8, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 3 removed: 8, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 3 removed: 8, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 3 removed: 8, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 3 removed: 8, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 3 removed: 8, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 3 removed: 8, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 3 removed: 8, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 3 removed: 8, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 3 removed: 8, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 3 removed: 9, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 9, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 3 removed: 9, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 3 removed: 9, 0.91, 0.5, 0.5555555555555556
+Naive Bayes ngrams: 3 removed: 9, 0.97, 1.0, 0.5
+Naive Bayes ngrams: 3 removed: 9, 0.91, 0.8571428571428571, 0.42857142857142855
+Naive Bayes ngrams: 3 removed: 9, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 3 removed: 9, 0.95, 0.5, 0.6
+Naive Bayes ngrams: 3 removed: 9, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 3 removed: 9, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 3 removed: 9, 0.95, 0.2, 0.5
 LogisticRegression ngrams: 3 removed: 9, 0.93, 0.45454545454545453, 0.8333333333333334
 LogisticRegression ngrams: 3 removed: 9, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -858,26 +858,26 @@ LogisticRegression ngrams: 3 removed: 9, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 3 removed: 9, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 9, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 9, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 9, 0.95, 0.0, None
-SVC ngrams: 3 removed: 9, 0.89, 0.0, None
-SVC ngrams: 3 removed: 9, 0.93, 0.0, None
-SVC ngrams: 3 removed: 9, 0.9, 0.0, None
-SVC ngrams: 3 removed: 9, 0.97, 0.0, None
-SVC ngrams: 3 removed: 9, 0.93, 0.0, None
-SVC ngrams: 3 removed: 9, 0.97, 0.0, None
-SVC ngrams: 3 removed: 9, 0.94, 0.0, None
-SVC ngrams: 3 removed: 9, 0.95, 0.0, None
-SVC ngrams: 3 removed: 9, 0.92, 0.0, None
-NaiveBayes ngrams: 3 removed: 10, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 3 removed: 10, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 3 removed: 10, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 3 removed: 10, 0.9, 0.5, 0.5
-NaiveBayes ngrams: 3 removed: 10, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 3 removed: 10, 0.91, 0.8571428571428571, 0.42857142857142855
-NaiveBayes ngrams: 3 removed: 10, 0.94, 0.6666666666666666, 0.2857142857142857
-NaiveBayes ngrams: 3 removed: 10, 0.95, 0.6666666666666666, 0.5714285714285714
-NaiveBayes ngrams: 3 removed: 10, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 3 removed: 10, 0.94, 0.75, 0.6
+SVC ngrams: 3 removed: 9, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 3 removed: 9, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 3 removed: 9, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 3 removed: 9, 0.88, 0.7, 0.4375
+SVC ngrams: 3 removed: 9, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 3 removed: 9, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 3 removed: 9, 0.85, 1.0, 0.16666666666666666
+SVC ngrams: 3 removed: 9, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 3 removed: 9, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 3 removed: 9, 0.88, 0.875, 0.3888888888888889
+Naive Bayes ngrams: 3 removed: 10, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 3 removed: 10, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 3 removed: 10, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 3 removed: 10, 0.9, 0.5, 0.5
+Naive Bayes ngrams: 3 removed: 10, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 3 removed: 10, 0.91, 0.8571428571428571, 0.42857142857142855
+Naive Bayes ngrams: 3 removed: 10, 0.94, 0.6666666666666666, 0.2857142857142857
+Naive Bayes ngrams: 3 removed: 10, 0.95, 0.6666666666666666, 0.5714285714285714
+Naive Bayes ngrams: 3 removed: 10, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 3 removed: 10, 0.94, 0.75, 0.6
 LogisticRegression ngrams: 3 removed: 10, 0.94, 0.2, 0.3333333333333333
 LogisticRegression ngrams: 3 removed: 10, 0.91, 0.36363636363636365, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 10, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -888,26 +888,26 @@ LogisticRegression ngrams: 3 removed: 10, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 3 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 3 removed: 10, 0.96, 0.2, 1.0
 LogisticRegression ngrams: 3 removed: 10, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 3 removed: 10, 0.95, 0.0, None
-SVC ngrams: 3 removed: 10, 0.89, 0.0, None
-SVC ngrams: 3 removed: 10, 0.93, 0.0, None
-SVC ngrams: 3 removed: 10, 0.9, 0.0, None
-SVC ngrams: 3 removed: 10, 0.97, 0.0, None
-SVC ngrams: 3 removed: 10, 0.93, 0.0, None
-SVC ngrams: 3 removed: 10, 0.97, 0.0, None
-SVC ngrams: 3 removed: 10, 0.94, 0.0, None
-SVC ngrams: 3 removed: 10, 0.95, 0.0, None
-SVC ngrams: 3 removed: 10, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 1, 0.87, 0.0, 0.0
-NaiveBayes ngrams: 4 removed: 1, 0.85, 0.18181818181818182, 0.25
-NaiveBayes ngrams: 4 removed: 1, 0.83, 0.0, 0.0
-NaiveBayes ngrams: 4 removed: 1, 0.87, 0.4, 0.36363636363636365
-NaiveBayes ngrams: 4 removed: 1, 0.96, 0.6666666666666666, 0.4
-NaiveBayes ngrams: 4 removed: 1, 0.91, 0.5714285714285714, 0.4
-NaiveBayes ngrams: 4 removed: 1, 0.94, 0.6666666666666666, 0.2857142857142857
-NaiveBayes ngrams: 4 removed: 1, 0.93, 0.5, 0.42857142857142855
-NaiveBayes ngrams: 4 removed: 1, 0.92, 0.4, 0.2857142857142857
-NaiveBayes ngrams: 4 removed: 1, 0.91, 0.5, 0.4444444444444444
+SVC ngrams: 3 removed: 10, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 3 removed: 10, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 3 removed: 10, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 3 removed: 10, 0.87, 0.7, 0.4117647058823529
+SVC ngrams: 3 removed: 10, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 3 removed: 10, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 3 removed: 10, 0.86, 1.0, 0.17647058823529413
+SVC ngrams: 3 removed: 10, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 3 removed: 10, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 3 removed: 10, 0.89, 0.875, 0.4117647058823529
+Naive Bayes ngrams: 4 removed: 1, 0.87, 0.0, 0.0
+Naive Bayes ngrams: 4 removed: 1, 0.85, 0.18181818181818182, 0.25
+Naive Bayes ngrams: 4 removed: 1, 0.83, 0.0, 0.0
+Naive Bayes ngrams: 4 removed: 1, 0.87, 0.4, 0.36363636363636365
+Naive Bayes ngrams: 4 removed: 1, 0.96, 0.6666666666666666, 0.4
+Naive Bayes ngrams: 4 removed: 1, 0.91, 0.5714285714285714, 0.4
+Naive Bayes ngrams: 4 removed: 1, 0.94, 0.6666666666666666, 0.2857142857142857
+Naive Bayes ngrams: 4 removed: 1, 0.93, 0.5, 0.42857142857142855
+Naive Bayes ngrams: 4 removed: 1, 0.92, 0.4, 0.2857142857142857
+Naive Bayes ngrams: 4 removed: 1, 0.91, 0.5, 0.4444444444444444
 LogisticRegression ngrams: 4 removed: 1, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 4 removed: 1, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 4 removed: 1, 0.92, 0.2857142857142857, 0.4
@@ -918,26 +918,26 @@ LogisticRegression ngrams: 4 removed: 1, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 4 removed: 1, 0.97, 0.5, 1.0
 LogisticRegression ngrams: 4 removed: 1, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 1, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 4 removed: 1, 0.95, 0.0, None
-SVC ngrams: 4 removed: 1, 0.89, 0.0, None
-SVC ngrams: 4 removed: 1, 0.93, 0.0, None
-SVC ngrams: 4 removed: 1, 0.9, 0.0, None
-SVC ngrams: 4 removed: 1, 0.97, 0.0, None
-SVC ngrams: 4 removed: 1, 0.93, 0.0, None
-SVC ngrams: 4 removed: 1, 0.97, 0.0, None
-SVC ngrams: 4 removed: 1, 0.94, 0.0, None
-SVC ngrams: 4 removed: 1, 0.95, 0.0, None
-SVC ngrams: 4 removed: 1, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 2, 0.94, 0.2, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 2, 0.94, 0.5454545454545454, 0.8571428571428571
-NaiveBayes ngrams: 4 removed: 2, 0.88, 0.5714285714285714, 0.3076923076923077
-NaiveBayes ngrams: 4 removed: 2, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 4 removed: 2, 0.96, 0.3333333333333333, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 2, 0.9, 0.5714285714285714, 0.36363636363636365
-NaiveBayes ngrams: 4 removed: 2, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 4 removed: 2, 0.94, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 4 removed: 2, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 2, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 4 removed: 1, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 4 removed: 1, 0.78, 0.9090909090909091, 0.3225806451612903
+SVC ngrams: 4 removed: 1, 0.88, 0.42857142857142855, 0.2727272727272727
+SVC ngrams: 4 removed: 1, 0.88, 0.8, 0.4444444444444444
+SVC ngrams: 4 removed: 1, 0.96, 0.6666666666666666, 0.4
+SVC ngrams: 4 removed: 1, 0.92, 0.7142857142857143, 0.45454545454545453
+SVC ngrams: 4 removed: 1, 0.9, 0.6666666666666666, 0.18181818181818182
+SVC ngrams: 4 removed: 1, 0.83, 0.6666666666666666, 0.21052631578947367
+SVC ngrams: 4 removed: 1, 0.9, 0.8, 0.3076923076923077
+SVC ngrams: 4 removed: 1, 0.76, 0.875, 0.23333333333333334
+Naive Bayes ngrams: 4 removed: 2, 0.94, 0.2, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 2, 0.94, 0.5454545454545454, 0.8571428571428571
+Naive Bayes ngrams: 4 removed: 2, 0.88, 0.5714285714285714, 0.3076923076923077
+Naive Bayes ngrams: 4 removed: 2, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 4 removed: 2, 0.96, 0.3333333333333333, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 2, 0.9, 0.5714285714285714, 0.36363636363636365
+Naive Bayes ngrams: 4 removed: 2, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 4 removed: 2, 0.94, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 4 removed: 2, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 2, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 4 removed: 2, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 4 removed: 2, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 4 removed: 2, 0.93, 0.2857142857142857, 0.5
@@ -948,26 +948,26 @@ LogisticRegression ngrams: 4 removed: 2, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 4 removed: 2, 0.97, 0.5, 1.0
 LogisticRegression ngrams: 4 removed: 2, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 2, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 4 removed: 2, 0.95, 0.0, None
-SVC ngrams: 4 removed: 2, 0.89, 0.0, None
-SVC ngrams: 4 removed: 2, 0.93, 0.0, None
-SVC ngrams: 4 removed: 2, 0.9, 0.0, None
-SVC ngrams: 4 removed: 2, 0.97, 0.0, None
-SVC ngrams: 4 removed: 2, 0.93, 0.0, None
-SVC ngrams: 4 removed: 2, 0.97, 0.0, None
-SVC ngrams: 4 removed: 2, 0.94, 0.0, None
-SVC ngrams: 4 removed: 2, 0.95, 0.0, None
-SVC ngrams: 4 removed: 2, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 3, 0.94, 0.2, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 3, 0.94, 0.6363636363636364, 0.7777777777777778
-NaiveBayes ngrams: 4 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 4 removed: 3, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 4 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 3, 0.88, 0.7142857142857143, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 3, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 4 removed: 3, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 4 removed: 3, 0.94, 0.6, 0.42857142857142855
-NaiveBayes ngrams: 4 removed: 3, 0.94, 0.75, 0.6
+SVC ngrams: 4 removed: 2, 0.88, 0.4, 0.18181818181818182
+SVC ngrams: 4 removed: 2, 0.93, 0.8181818181818182, 0.6428571428571429
+SVC ngrams: 4 removed: 2, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 4 removed: 2, 0.91, 0.8, 0.5333333333333333
+SVC ngrams: 4 removed: 2, 0.87, 0.6666666666666666, 0.14285714285714285
+SVC ngrams: 4 removed: 2, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 4 removed: 2, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 4 removed: 2, 0.93, 0.6666666666666666, 0.4444444444444444
+SVC ngrams: 4 removed: 2, 0.93, 0.8, 0.4
+SVC ngrams: 4 removed: 2, 0.89, 0.875, 0.4117647058823529
+Naive Bayes ngrams: 4 removed: 3, 0.94, 0.2, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 3, 0.94, 0.6363636363636364, 0.7777777777777778
+Naive Bayes ngrams: 4 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 4 removed: 3, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 4 removed: 3, 0.95, 0.6666666666666666, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 3, 0.88, 0.7142857142857143, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 3, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 4 removed: 3, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 4 removed: 3, 0.94, 0.6, 0.42857142857142855
+Naive Bayes ngrams: 4 removed: 3, 0.94, 0.75, 0.6
 LogisticRegression ngrams: 4 removed: 3, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 4 removed: 3, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 4 removed: 3, 0.92, 0.2857142857142857, 0.4
@@ -978,26 +978,26 @@ LogisticRegression ngrams: 4 removed: 3, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 4 removed: 3, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 4 removed: 3, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 3, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 4 removed: 3, 0.95, 0.0, None
-SVC ngrams: 4 removed: 3, 0.89, 0.0, None
-SVC ngrams: 4 removed: 3, 0.93, 0.0, None
-SVC ngrams: 4 removed: 3, 0.9, 0.0, None
-SVC ngrams: 4 removed: 3, 0.97, 0.0, None
-SVC ngrams: 4 removed: 3, 0.93, 0.0, None
-SVC ngrams: 4 removed: 3, 0.97, 0.0, None
-SVC ngrams: 4 removed: 3, 0.94, 0.0, None
-SVC ngrams: 4 removed: 3, 0.95, 0.0, None
-SVC ngrams: 4 removed: 3, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 4, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 4 removed: 4, 0.94, 0.7272727272727273, 0.7272727272727273
-NaiveBayes ngrams: 4 removed: 4, 0.87, 0.42857142857142855, 0.25
-NaiveBayes ngrams: 4 removed: 4, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 4 removed: 4, 0.95, 0.3333333333333333, 0.25
-NaiveBayes ngrams: 4 removed: 4, 0.86, 0.7142857142857143, 0.29411764705882354
-NaiveBayes ngrams: 4 removed: 4, 0.91, 0.6666666666666666, 0.2
-NaiveBayes ngrams: 4 removed: 4, 0.96, 0.6666666666666666, 0.6666666666666666
-NaiveBayes ngrams: 4 removed: 4, 0.93, 0.6, 0.375
-NaiveBayes ngrams: 4 removed: 4, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 4 removed: 3, 0.9, 0.4, 0.2222222222222222
+SVC ngrams: 4 removed: 3, 0.94, 0.8181818181818182, 0.6923076923076923
+SVC ngrams: 4 removed: 3, 0.84, 0.42857142857142855, 0.2
+SVC ngrams: 4 removed: 3, 0.91, 0.7, 0.5384615384615384
+SVC ngrams: 4 removed: 3, 0.89, 1.0, 0.21428571428571427
+SVC ngrams: 4 removed: 3, 0.83, 0.8571428571428571, 0.2727272727272727
+SVC ngrams: 4 removed: 3, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 4 removed: 3, 0.94, 0.6666666666666666, 0.5
+SVC ngrams: 4 removed: 3, 0.93, 0.8, 0.4
+SVC ngrams: 4 removed: 3, 0.9, 0.875, 0.4375
+Naive Bayes ngrams: 4 removed: 4, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 4 removed: 4, 0.94, 0.7272727272727273, 0.7272727272727273
+Naive Bayes ngrams: 4 removed: 4, 0.87, 0.42857142857142855, 0.25
+Naive Bayes ngrams: 4 removed: 4, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 4 removed: 4, 0.95, 0.3333333333333333, 0.25
+Naive Bayes ngrams: 4 removed: 4, 0.86, 0.7142857142857143, 0.29411764705882354
+Naive Bayes ngrams: 4 removed: 4, 0.91, 0.6666666666666666, 0.2
+Naive Bayes ngrams: 4 removed: 4, 0.96, 0.6666666666666666, 0.6666666666666666
+Naive Bayes ngrams: 4 removed: 4, 0.93, 0.6, 0.375
+Naive Bayes ngrams: 4 removed: 4, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 4 removed: 4, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 4 removed: 4, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 4 removed: 4, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1008,26 +1008,26 @@ LogisticRegression ngrams: 4 removed: 4, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 4 removed: 4, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 4 removed: 4, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 4, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 4 removed: 4, 0.95, 0.0, None
-SVC ngrams: 4 removed: 4, 0.89, 0.0, None
-SVC ngrams: 4 removed: 4, 0.93, 0.0, None
-SVC ngrams: 4 removed: 4, 0.9, 0.0, None
-SVC ngrams: 4 removed: 4, 0.97, 0.0, None
-SVC ngrams: 4 removed: 4, 0.93, 0.0, None
-SVC ngrams: 4 removed: 4, 0.97, 0.0, None
-SVC ngrams: 4 removed: 4, 0.94, 0.0, None
-SVC ngrams: 4 removed: 4, 0.95, 0.0, None
-SVC ngrams: 4 removed: 4, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 5, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 4 removed: 5, 0.93, 0.7272727272727273, 0.6666666666666666
-NaiveBayes ngrams: 4 removed: 5, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 4 removed: 5, 0.94, 0.6, 0.75
-NaiveBayes ngrams: 4 removed: 5, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 4 removed: 5, 0.86, 0.7142857142857143, 0.29411764705882354
-NaiveBayes ngrams: 4 removed: 5, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 4 removed: 5, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 4 removed: 5, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 4 removed: 5, 0.91, 0.625, 0.45454545454545453
+SVC ngrams: 4 removed: 4, 0.87, 0.4, 0.16666666666666666
+SVC ngrams: 4 removed: 4, 0.92, 0.8181818181818182, 0.6
+SVC ngrams: 4 removed: 4, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 4 removed: 4, 0.9, 0.7, 0.5
+SVC ngrams: 4 removed: 4, 0.88, 0.6666666666666666, 0.15384615384615385
+SVC ngrams: 4 removed: 4, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 4 removed: 4, 0.81, 0.6666666666666666, 0.1
+SVC ngrams: 4 removed: 4, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 4 removed: 4, 0.93, 0.8, 0.4
+SVC ngrams: 4 removed: 4, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 4 removed: 5, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 4 removed: 5, 0.93, 0.7272727272727273, 0.6666666666666666
+Naive Bayes ngrams: 4 removed: 5, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 4 removed: 5, 0.94, 0.6, 0.75
+Naive Bayes ngrams: 4 removed: 5, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 4 removed: 5, 0.86, 0.7142857142857143, 0.29411764705882354
+Naive Bayes ngrams: 4 removed: 5, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 4 removed: 5, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 4 removed: 5, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 4 removed: 5, 0.91, 0.625, 0.45454545454545453
 LogisticRegression ngrams: 4 removed: 5, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 4 removed: 5, 0.93, 0.36363636363636365, 1.0
 LogisticRegression ngrams: 4 removed: 5, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1038,26 +1038,26 @@ LogisticRegression ngrams: 4 removed: 5, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 4 removed: 5, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 4 removed: 5, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 5, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 4 removed: 5, 0.95, 0.0, None
-SVC ngrams: 4 removed: 5, 0.89, 0.0, None
-SVC ngrams: 4 removed: 5, 0.93, 0.0, None
-SVC ngrams: 4 removed: 5, 0.9, 0.0, None
-SVC ngrams: 4 removed: 5, 0.97, 0.0, None
-SVC ngrams: 4 removed: 5, 0.93, 0.0, None
-SVC ngrams: 4 removed: 5, 0.97, 0.0, None
-SVC ngrams: 4 removed: 5, 0.94, 0.0, None
-SVC ngrams: 4 removed: 5, 0.95, 0.0, None
-SVC ngrams: 4 removed: 5, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 6, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 6, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 4 removed: 6, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 4 removed: 6, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 4 removed: 6, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 4 removed: 6, 0.87, 0.7142857142857143, 0.3125
-NaiveBayes ngrams: 4 removed: 6, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 4 removed: 6, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 4 removed: 6, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 4 removed: 6, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 4 removed: 5, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 4 removed: 5, 0.91, 0.8181818181818182, 0.5625
+SVC ngrams: 4 removed: 5, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 4 removed: 5, 0.88, 0.6, 0.42857142857142855
+SVC ngrams: 4 removed: 5, 0.86, 0.6666666666666666, 0.13333333333333333
+SVC ngrams: 4 removed: 5, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 4 removed: 5, 0.81, 0.6666666666666666, 0.1
+SVC ngrams: 4 removed: 5, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 4 removed: 5, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 4 removed: 5, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 4 removed: 6, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 6, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 4 removed: 6, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 4 removed: 6, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 4 removed: 6, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 4 removed: 6, 0.87, 0.7142857142857143, 0.3125
+Naive Bayes ngrams: 4 removed: 6, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 4 removed: 6, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 4 removed: 6, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 4 removed: 6, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 4 removed: 6, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 4 removed: 6, 0.92, 0.36363636363636365, 0.8
 LogisticRegression ngrams: 4 removed: 6, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1068,26 +1068,26 @@ LogisticRegression ngrams: 4 removed: 6, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 4 removed: 6, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 4 removed: 6, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 6, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 4 removed: 6, 0.95, 0.0, None
-SVC ngrams: 4 removed: 6, 0.89, 0.0, None
-SVC ngrams: 4 removed: 6, 0.93, 0.0, None
-SVC ngrams: 4 removed: 6, 0.9, 0.0, None
-SVC ngrams: 4 removed: 6, 0.97, 0.0, None
-SVC ngrams: 4 removed: 6, 0.93, 0.0, None
-SVC ngrams: 4 removed: 6, 0.97, 0.0, None
-SVC ngrams: 4 removed: 6, 0.94, 0.0, None
-SVC ngrams: 4 removed: 6, 0.95, 0.0, None
-SVC ngrams: 4 removed: 6, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 7, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 4 removed: 7, 0.93, 0.7272727272727273, 0.6666666666666666
-NaiveBayes ngrams: 4 removed: 7, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 4 removed: 7, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 4 removed: 7, 0.96, 1.0, 0.42857142857142855
-NaiveBayes ngrams: 4 removed: 7, 0.9, 0.8571428571428571, 0.4
-NaiveBayes ngrams: 4 removed: 7, 0.92, 1.0, 0.2727272727272727
-NaiveBayes ngrams: 4 removed: 7, 0.96, 0.5, 0.75
-NaiveBayes ngrams: 4 removed: 7, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 4 removed: 7, 0.92, 0.75, 0.5
+SVC ngrams: 4 removed: 6, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 4 removed: 6, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 4 removed: 6, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 4 removed: 6, 0.88, 0.6, 0.42857142857142855
+SVC ngrams: 4 removed: 6, 0.86, 0.6666666666666666, 0.13333333333333333
+SVC ngrams: 4 removed: 6, 0.83, 0.8571428571428571, 0.2727272727272727
+SVC ngrams: 4 removed: 6, 0.83, 1.0, 0.15
+SVC ngrams: 4 removed: 6, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 4 removed: 6, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 4 removed: 6, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 4 removed: 7, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 4 removed: 7, 0.93, 0.7272727272727273, 0.6666666666666666
+Naive Bayes ngrams: 4 removed: 7, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 4 removed: 7, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 4 removed: 7, 0.96, 1.0, 0.42857142857142855
+Naive Bayes ngrams: 4 removed: 7, 0.9, 0.8571428571428571, 0.4
+Naive Bayes ngrams: 4 removed: 7, 0.92, 1.0, 0.2727272727272727
+Naive Bayes ngrams: 4 removed: 7, 0.96, 0.5, 0.75
+Naive Bayes ngrams: 4 removed: 7, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 4 removed: 7, 0.92, 0.75, 0.5
 LogisticRegression ngrams: 4 removed: 7, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 7, 0.91, 0.36363636363636365, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 7, 0.93, 0.2857142857142857, 0.5
@@ -1098,26 +1098,26 @@ LogisticRegression ngrams: 4 removed: 7, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 4 removed: 7, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 7, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 7, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 4 removed: 7, 0.95, 0.0, None
-SVC ngrams: 4 removed: 7, 0.89, 0.0, None
-SVC ngrams: 4 removed: 7, 0.93, 0.0, None
-SVC ngrams: 4 removed: 7, 0.9, 0.0, None
-SVC ngrams: 4 removed: 7, 0.97, 0.0, None
-SVC ngrams: 4 removed: 7, 0.93, 0.0, None
-SVC ngrams: 4 removed: 7, 0.97, 0.0, None
-SVC ngrams: 4 removed: 7, 0.94, 0.0, None
-SVC ngrams: 4 removed: 7, 0.95, 0.0, None
-SVC ngrams: 4 removed: 7, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 8, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 8, 0.93, 0.8181818181818182, 0.6428571428571429
-NaiveBayes ngrams: 4 removed: 8, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 4 removed: 8, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 4 removed: 8, 0.98, 1.0, 0.6
-NaiveBayes ngrams: 4 removed: 8, 0.89, 0.8571428571428571, 0.375
-NaiveBayes ngrams: 4 removed: 8, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 4 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 4 removed: 8, 0.96, 1.0, 0.5555555555555556
-NaiveBayes ngrams: 4 removed: 8, 0.91, 0.75, 0.46153846153846156
+SVC ngrams: 4 removed: 7, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 4 removed: 7, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 4 removed: 7, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 4 removed: 7, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 4 removed: 7, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 4 removed: 7, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 4 removed: 7, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 4 removed: 7, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 4 removed: 7, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 4 removed: 7, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 4 removed: 8, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 8, 0.93, 0.8181818181818182, 0.6428571428571429
+Naive Bayes ngrams: 4 removed: 8, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 4 removed: 8, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 4 removed: 8, 0.98, 1.0, 0.6
+Naive Bayes ngrams: 4 removed: 8, 0.89, 0.8571428571428571, 0.375
+Naive Bayes ngrams: 4 removed: 8, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 4 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 4 removed: 8, 0.96, 1.0, 0.5555555555555556
+Naive Bayes ngrams: 4 removed: 8, 0.91, 0.75, 0.46153846153846156
 LogisticRegression ngrams: 4 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 8, 0.9, 0.36363636363636365, 0.5714285714285714
 LogisticRegression ngrams: 4 removed: 8, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1128,26 +1128,26 @@ LogisticRegression ngrams: 4 removed: 8, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 4 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 8, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 4 removed: 8, 0.95, 0.0, None
-SVC ngrams: 4 removed: 8, 0.89, 0.0, None
-SVC ngrams: 4 removed: 8, 0.93, 0.0, None
-SVC ngrams: 4 removed: 8, 0.9, 0.0, None
-SVC ngrams: 4 removed: 8, 0.97, 0.0, None
-SVC ngrams: 4 removed: 8, 0.93, 0.0, None
-SVC ngrams: 4 removed: 8, 0.97, 0.0, None
-SVC ngrams: 4 removed: 8, 0.94, 0.0, None
-SVC ngrams: 4 removed: 8, 0.95, 0.0, None
-SVC ngrams: 4 removed: 8, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 9, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 9, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 4 removed: 9, 0.91, 0.42857142857142855, 0.375
-NaiveBayes ngrams: 4 removed: 9, 0.91, 0.5, 0.5555555555555556
-NaiveBayes ngrams: 4 removed: 9, 0.96, 1.0, 0.42857142857142855
-NaiveBayes ngrams: 4 removed: 9, 0.89, 0.8571428571428571, 0.375
-NaiveBayes ngrams: 4 removed: 9, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 4 removed: 9, 0.95, 0.5, 0.6
-NaiveBayes ngrams: 4 removed: 9, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 4 removed: 9, 0.92, 0.75, 0.5
+SVC ngrams: 4 removed: 8, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 4 removed: 8, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 4 removed: 8, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 4 removed: 8, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 4 removed: 8, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 4 removed: 8, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 4 removed: 8, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 4 removed: 8, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 4 removed: 8, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 4 removed: 8, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 4 removed: 9, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 9, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 4 removed: 9, 0.91, 0.42857142857142855, 0.375
+Naive Bayes ngrams: 4 removed: 9, 0.91, 0.5, 0.5555555555555556
+Naive Bayes ngrams: 4 removed: 9, 0.96, 1.0, 0.42857142857142855
+Naive Bayes ngrams: 4 removed: 9, 0.89, 0.8571428571428571, 0.375
+Naive Bayes ngrams: 4 removed: 9, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 4 removed: 9, 0.95, 0.5, 0.6
+Naive Bayes ngrams: 4 removed: 9, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 4 removed: 9, 0.92, 0.75, 0.5
 LogisticRegression ngrams: 4 removed: 9, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 9, 0.93, 0.45454545454545453, 0.8333333333333334
 LogisticRegression ngrams: 4 removed: 9, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1158,26 +1158,26 @@ LogisticRegression ngrams: 4 removed: 9, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 4 removed: 9, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 9, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 9, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 4 removed: 9, 0.95, 0.0, None
-SVC ngrams: 4 removed: 9, 0.89, 0.0, None
-SVC ngrams: 4 removed: 9, 0.93, 0.0, None
-SVC ngrams: 4 removed: 9, 0.9, 0.0, None
-SVC ngrams: 4 removed: 9, 0.97, 0.0, None
-SVC ngrams: 4 removed: 9, 0.93, 0.0, None
-SVC ngrams: 4 removed: 9, 0.97, 0.0, None
-SVC ngrams: 4 removed: 9, 0.94, 0.0, None
-SVC ngrams: 4 removed: 9, 0.95, 0.0, None
-SVC ngrams: 4 removed: 9, 0.92, 0.0, None
-NaiveBayes ngrams: 4 removed: 10, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 10, 0.95, 0.8181818181818182, 0.75
-NaiveBayes ngrams: 4 removed: 10, 0.91, 0.42857142857142855, 0.375
-NaiveBayes ngrams: 4 removed: 10, 0.9, 0.5, 0.5
-NaiveBayes ngrams: 4 removed: 10, 0.94, 1.0, 0.3333333333333333
-NaiveBayes ngrams: 4 removed: 10, 0.89, 0.8571428571428571, 0.375
-NaiveBayes ngrams: 4 removed: 10, 0.94, 0.6666666666666666, 0.2857142857142857
-NaiveBayes ngrams: 4 removed: 10, 0.95, 0.6666666666666666, 0.5714285714285714
-NaiveBayes ngrams: 4 removed: 10, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 4 removed: 10, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 4 removed: 9, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 4 removed: 9, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 4 removed: 9, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 4 removed: 9, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 4 removed: 9, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 4 removed: 9, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 4 removed: 9, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 4 removed: 9, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 4 removed: 9, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 4 removed: 9, 0.88, 0.875, 0.3888888888888889
+Naive Bayes ngrams: 4 removed: 10, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 10, 0.95, 0.8181818181818182, 0.75
+Naive Bayes ngrams: 4 removed: 10, 0.91, 0.42857142857142855, 0.375
+Naive Bayes ngrams: 4 removed: 10, 0.9, 0.5, 0.5
+Naive Bayes ngrams: 4 removed: 10, 0.94, 1.0, 0.3333333333333333
+Naive Bayes ngrams: 4 removed: 10, 0.89, 0.8571428571428571, 0.375
+Naive Bayes ngrams: 4 removed: 10, 0.94, 0.6666666666666666, 0.2857142857142857
+Naive Bayes ngrams: 4 removed: 10, 0.95, 0.6666666666666666, 0.5714285714285714
+Naive Bayes ngrams: 4 removed: 10, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 4 removed: 10, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 4 removed: 10, 0.94, 0.2, 0.3333333333333333
 LogisticRegression ngrams: 4 removed: 10, 0.91, 0.36363636363636365, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 10, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1188,26 +1188,26 @@ LogisticRegression ngrams: 4 removed: 10, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 4 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 4 removed: 10, 0.96, 0.2, 1.0
 LogisticRegression ngrams: 4 removed: 10, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 4 removed: 10, 0.95, 0.0, None
-SVC ngrams: 4 removed: 10, 0.89, 0.0, None
-SVC ngrams: 4 removed: 10, 0.93, 0.0, None
-SVC ngrams: 4 removed: 10, 0.9, 0.0, None
-SVC ngrams: 4 removed: 10, 0.97, 0.0, None
-SVC ngrams: 4 removed: 10, 0.93, 0.0, None
-SVC ngrams: 4 removed: 10, 0.97, 0.0, None
-SVC ngrams: 4 removed: 10, 0.94, 0.0, None
-SVC ngrams: 4 removed: 10, 0.95, 0.0, None
-SVC ngrams: 4 removed: 10, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 1, 0.86, 0.0, 0.0
-NaiveBayes ngrams: 5 removed: 1, 0.84, 0.18181818181818182, 0.2222222222222222
-NaiveBayes ngrams: 5 removed: 1, 0.84, 0.0, 0.0
-NaiveBayes ngrams: 5 removed: 1, 0.87, 0.4, 0.36363636363636365
-NaiveBayes ngrams: 5 removed: 1, 0.95, 0.3333333333333333, 0.25
-NaiveBayes ngrams: 5 removed: 1, 0.91, 0.5714285714285714, 0.4
-NaiveBayes ngrams: 5 removed: 1, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 5 removed: 1, 0.93, 0.5, 0.42857142857142855
-NaiveBayes ngrams: 5 removed: 1, 0.91, 0.4, 0.25
-NaiveBayes ngrams: 5 removed: 1, 0.91, 0.5, 0.4444444444444444
+SVC ngrams: 4 removed: 10, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 4 removed: 10, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 4 removed: 10, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 4 removed: 10, 0.87, 0.7, 0.4117647058823529
+SVC ngrams: 4 removed: 10, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 4 removed: 10, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 4 removed: 10, 0.85, 1.0, 0.16666666666666666
+SVC ngrams: 4 removed: 10, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 4 removed: 10, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 4 removed: 10, 0.89, 0.875, 0.4117647058823529
+Naive Bayes ngrams: 5 removed: 1, 0.86, 0.0, 0.0
+Naive Bayes ngrams: 5 removed: 1, 0.84, 0.18181818181818182, 0.2222222222222222
+Naive Bayes ngrams: 5 removed: 1, 0.84, 0.0, 0.0
+Naive Bayes ngrams: 5 removed: 1, 0.87, 0.4, 0.36363636363636365
+Naive Bayes ngrams: 5 removed: 1, 0.95, 0.3333333333333333, 0.25
+Naive Bayes ngrams: 5 removed: 1, 0.91, 0.5714285714285714, 0.4
+Naive Bayes ngrams: 5 removed: 1, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 5 removed: 1, 0.93, 0.5, 0.42857142857142855
+Naive Bayes ngrams: 5 removed: 1, 0.91, 0.4, 0.25
+Naive Bayes ngrams: 5 removed: 1, 0.91, 0.5, 0.4444444444444444
 LogisticRegression ngrams: 5 removed: 1, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 5 removed: 1, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 5 removed: 1, 0.92, 0.2857142857142857, 0.4
@@ -1218,26 +1218,26 @@ LogisticRegression ngrams: 5 removed: 1, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 5 removed: 1, 0.97, 0.5, 1.0
 LogisticRegression ngrams: 5 removed: 1, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 1, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 5 removed: 1, 0.95, 0.0, None
-SVC ngrams: 5 removed: 1, 0.89, 0.0, None
-SVC ngrams: 5 removed: 1, 0.93, 0.0, None
-SVC ngrams: 5 removed: 1, 0.9, 0.0, None
-SVC ngrams: 5 removed: 1, 0.97, 0.0, None
-SVC ngrams: 5 removed: 1, 0.93, 0.0, None
-SVC ngrams: 5 removed: 1, 0.97, 0.0, None
-SVC ngrams: 5 removed: 1, 0.94, 0.0, None
-SVC ngrams: 5 removed: 1, 0.95, 0.0, None
-SVC ngrams: 5 removed: 1, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 2, 0.94, 0.2, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 2, 0.92, 0.45454545454545453, 0.7142857142857143
-NaiveBayes ngrams: 5 removed: 2, 0.87, 0.42857142857142855, 0.25
-NaiveBayes ngrams: 5 removed: 2, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 5 removed: 2, 0.96, 0.3333333333333333, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 2, 0.9, 0.5714285714285714, 0.36363636363636365
-NaiveBayes ngrams: 5 removed: 2, 0.91, 0.6666666666666666, 0.2
-NaiveBayes ngrams: 5 removed: 2, 0.94, 0.6666666666666666, 0.5
-NaiveBayes ngrams: 5 removed: 2, 0.94, 0.4, 0.4
-NaiveBayes ngrams: 5 removed: 2, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 5 removed: 1, 0.79, 0.4, 0.1
+SVC ngrams: 5 removed: 1, 0.68, 1.0, 0.2558139534883721
+SVC ngrams: 5 removed: 1, 0.9, 0.2857142857142857, 0.2857142857142857
+SVC ngrams: 5 removed: 1, 0.82, 0.8, 0.3333333333333333
+SVC ngrams: 5 removed: 1, 0.96, 0.0, 0.0
+SVC ngrams: 5 removed: 1, 0.94, 0.7142857142857143, 0.5555555555555556
+SVC ngrams: 5 removed: 1, 0.94, 0.6666666666666666, 0.2857142857142857
+SVC ngrams: 5 removed: 1, 0.67, 0.8333333333333334, 0.13513513513513514
+SVC ngrams: 5 removed: 1, 0.8, 1.0, 0.2
+SVC ngrams: 5 removed: 1, 0.67, 1.0, 0.1951219512195122
+Naive Bayes ngrams: 5 removed: 2, 0.94, 0.2, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 2, 0.92, 0.45454545454545453, 0.7142857142857143
+Naive Bayes ngrams: 5 removed: 2, 0.87, 0.42857142857142855, 0.25
+Naive Bayes ngrams: 5 removed: 2, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 5 removed: 2, 0.96, 0.3333333333333333, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 2, 0.9, 0.5714285714285714, 0.36363636363636365
+Naive Bayes ngrams: 5 removed: 2, 0.91, 0.6666666666666666, 0.2
+Naive Bayes ngrams: 5 removed: 2, 0.94, 0.6666666666666666, 0.5
+Naive Bayes ngrams: 5 removed: 2, 0.94, 0.4, 0.4
+Naive Bayes ngrams: 5 removed: 2, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 5 removed: 2, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 5 removed: 2, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 5 removed: 2, 0.93, 0.2857142857142857, 0.5
@@ -1248,26 +1248,26 @@ LogisticRegression ngrams: 5 removed: 2, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 5 removed: 2, 0.97, 0.5, 1.0
 LogisticRegression ngrams: 5 removed: 2, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 2, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 5 removed: 2, 0.95, 0.0, None
-SVC ngrams: 5 removed: 2, 0.89, 0.0, None
-SVC ngrams: 5 removed: 2, 0.93, 0.0, None
-SVC ngrams: 5 removed: 2, 0.9, 0.0, None
-SVC ngrams: 5 removed: 2, 0.97, 0.0, None
-SVC ngrams: 5 removed: 2, 0.93, 0.0, None
-SVC ngrams: 5 removed: 2, 0.97, 0.0, None
-SVC ngrams: 5 removed: 2, 0.94, 0.0, None
-SVC ngrams: 5 removed: 2, 0.95, 0.0, None
-SVC ngrams: 5 removed: 2, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 3, 0.94, 0.2, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 3, 0.93, 0.5454545454545454, 0.75
-NaiveBayes ngrams: 5 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 5 removed: 3, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 5 removed: 3, 0.96, 0.6666666666666666, 0.4
-NaiveBayes ngrams: 5 removed: 3, 0.87, 0.7142857142857143, 0.3125
-NaiveBayes ngrams: 5 removed: 3, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 5 removed: 3, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 5 removed: 3, 0.94, 0.6, 0.42857142857142855
-NaiveBayes ngrams: 5 removed: 3, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 5 removed: 2, 0.89, 0.4, 0.2
+SVC ngrams: 5 removed: 2, 0.93, 0.8181818181818182, 0.6428571428571429
+SVC ngrams: 5 removed: 2, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 5 removed: 2, 0.91, 0.7, 0.5384615384615384
+SVC ngrams: 5 removed: 2, 0.87, 0.6666666666666666, 0.14285714285714285
+SVC ngrams: 5 removed: 2, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 5 removed: 2, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 5 removed: 2, 0.93, 0.6666666666666666, 0.4444444444444444
+SVC ngrams: 5 removed: 2, 0.93, 0.8, 0.4
+SVC ngrams: 5 removed: 2, 0.88, 0.75, 0.375
+Naive Bayes ngrams: 5 removed: 3, 0.94, 0.2, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 3, 0.93, 0.5454545454545454, 0.75
+Naive Bayes ngrams: 5 removed: 3, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 5 removed: 3, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 5 removed: 3, 0.96, 0.6666666666666666, 0.4
+Naive Bayes ngrams: 5 removed: 3, 0.87, 0.7142857142857143, 0.3125
+Naive Bayes ngrams: 5 removed: 3, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 5 removed: 3, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 5 removed: 3, 0.94, 0.6, 0.42857142857142855
+Naive Bayes ngrams: 5 removed: 3, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 5 removed: 3, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 5 removed: 3, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 5 removed: 3, 0.93, 0.2857142857142857, 0.5
@@ -1278,26 +1278,26 @@ LogisticRegression ngrams: 5 removed: 3, 0.95, 0.3333333333333333, 0.25
 LogisticRegression ngrams: 5 removed: 3, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 5 removed: 3, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 3, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 5 removed: 3, 0.95, 0.0, None
-SVC ngrams: 5 removed: 3, 0.89, 0.0, None
-SVC ngrams: 5 removed: 3, 0.93, 0.0, None
-SVC ngrams: 5 removed: 3, 0.9, 0.0, None
-SVC ngrams: 5 removed: 3, 0.97, 0.0, None
-SVC ngrams: 5 removed: 3, 0.93, 0.0, None
-SVC ngrams: 5 removed: 3, 0.97, 0.0, None
-SVC ngrams: 5 removed: 3, 0.94, 0.0, None
-SVC ngrams: 5 removed: 3, 0.95, 0.0, None
-SVC ngrams: 5 removed: 3, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 4, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 5 removed: 4, 0.94, 0.7272727272727273, 0.7272727272727273
-NaiveBayes ngrams: 5 removed: 4, 0.87, 0.42857142857142855, 0.25
-NaiveBayes ngrams: 5 removed: 4, 0.93, 0.6, 0.6666666666666666
-NaiveBayes ngrams: 5 removed: 4, 0.95, 0.3333333333333333, 0.25
-NaiveBayes ngrams: 5 removed: 4, 0.86, 0.7142857142857143, 0.29411764705882354
-NaiveBayes ngrams: 5 removed: 4, 0.91, 0.6666666666666666, 0.2
-NaiveBayes ngrams: 5 removed: 4, 0.96, 0.6666666666666666, 0.6666666666666666
-NaiveBayes ngrams: 5 removed: 4, 0.93, 0.6, 0.375
-NaiveBayes ngrams: 5 removed: 4, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 5 removed: 3, 0.9, 0.4, 0.2222222222222222
+SVC ngrams: 5 removed: 3, 0.94, 0.8181818181818182, 0.6923076923076923
+SVC ngrams: 5 removed: 3, 0.84, 0.42857142857142855, 0.2
+SVC ngrams: 5 removed: 3, 0.91, 0.7, 0.5384615384615384
+SVC ngrams: 5 removed: 3, 0.89, 1.0, 0.21428571428571427
+SVC ngrams: 5 removed: 3, 0.83, 0.8571428571428571, 0.2727272727272727
+SVC ngrams: 5 removed: 3, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 5 removed: 3, 0.94, 0.6666666666666666, 0.5
+SVC ngrams: 5 removed: 3, 0.94, 0.8, 0.4444444444444444
+SVC ngrams: 5 removed: 3, 0.89, 0.875, 0.4117647058823529
+Naive Bayes ngrams: 5 removed: 4, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 5 removed: 4, 0.94, 0.7272727272727273, 0.7272727272727273
+Naive Bayes ngrams: 5 removed: 4, 0.87, 0.42857142857142855, 0.25
+Naive Bayes ngrams: 5 removed: 4, 0.93, 0.6, 0.6666666666666666
+Naive Bayes ngrams: 5 removed: 4, 0.95, 0.3333333333333333, 0.25
+Naive Bayes ngrams: 5 removed: 4, 0.86, 0.7142857142857143, 0.29411764705882354
+Naive Bayes ngrams: 5 removed: 4, 0.91, 0.6666666666666666, 0.2
+Naive Bayes ngrams: 5 removed: 4, 0.96, 0.6666666666666666, 0.6666666666666666
+Naive Bayes ngrams: 5 removed: 4, 0.93, 0.6, 0.375
+Naive Bayes ngrams: 5 removed: 4, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 5 removed: 4, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 5 removed: 4, 0.92, 0.2727272727272727, 1.0
 LogisticRegression ngrams: 5 removed: 4, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1308,26 +1308,26 @@ LogisticRegression ngrams: 5 removed: 4, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 5 removed: 4, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 5 removed: 4, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 4, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 5 removed: 4, 0.95, 0.0, None
-SVC ngrams: 5 removed: 4, 0.89, 0.0, None
-SVC ngrams: 5 removed: 4, 0.93, 0.0, None
-SVC ngrams: 5 removed: 4, 0.9, 0.0, None
-SVC ngrams: 5 removed: 4, 0.97, 0.0, None
-SVC ngrams: 5 removed: 4, 0.93, 0.0, None
-SVC ngrams: 5 removed: 4, 0.97, 0.0, None
-SVC ngrams: 5 removed: 4, 0.94, 0.0, None
-SVC ngrams: 5 removed: 4, 0.95, 0.0, None
-SVC ngrams: 5 removed: 4, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 5, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 5 removed: 5, 0.93, 0.7272727272727273, 0.6666666666666666
-NaiveBayes ngrams: 5 removed: 5, 0.88, 0.42857142857142855, 0.2727272727272727
-NaiveBayes ngrams: 5 removed: 5, 0.94, 0.6, 0.75
-NaiveBayes ngrams: 5 removed: 5, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 5 removed: 5, 0.86, 0.7142857142857143, 0.29411764705882354
-NaiveBayes ngrams: 5 removed: 5, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 5 removed: 5, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 5 removed: 5, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 5 removed: 5, 0.91, 0.625, 0.45454545454545453
+SVC ngrams: 5 removed: 4, 0.87, 0.4, 0.16666666666666666
+SVC ngrams: 5 removed: 4, 0.92, 0.8181818181818182, 0.6
+SVC ngrams: 5 removed: 4, 0.85, 0.5714285714285714, 0.25
+SVC ngrams: 5 removed: 4, 0.9, 0.7, 0.5
+SVC ngrams: 5 removed: 4, 0.88, 0.6666666666666666, 0.15384615384615385
+SVC ngrams: 5 removed: 4, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 5 removed: 4, 0.81, 0.6666666666666666, 0.1
+SVC ngrams: 5 removed: 4, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 5 removed: 4, 0.93, 0.8, 0.4
+SVC ngrams: 5 removed: 4, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 5 removed: 5, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 5 removed: 5, 0.93, 0.7272727272727273, 0.6666666666666666
+Naive Bayes ngrams: 5 removed: 5, 0.88, 0.42857142857142855, 0.2727272727272727
+Naive Bayes ngrams: 5 removed: 5, 0.94, 0.6, 0.75
+Naive Bayes ngrams: 5 removed: 5, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 5 removed: 5, 0.86, 0.7142857142857143, 0.29411764705882354
+Naive Bayes ngrams: 5 removed: 5, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 5 removed: 5, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 5 removed: 5, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 5 removed: 5, 0.91, 0.625, 0.45454545454545453
 LogisticRegression ngrams: 5 removed: 5, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 5 removed: 5, 0.93, 0.36363636363636365, 1.0
 LogisticRegression ngrams: 5 removed: 5, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1338,26 +1338,26 @@ LogisticRegression ngrams: 5 removed: 5, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 5 removed: 5, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 5 removed: 5, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 5, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 5 removed: 5, 0.95, 0.0, None
-SVC ngrams: 5 removed: 5, 0.89, 0.0, None
-SVC ngrams: 5 removed: 5, 0.93, 0.0, None
-SVC ngrams: 5 removed: 5, 0.9, 0.0, None
-SVC ngrams: 5 removed: 5, 0.97, 0.0, None
-SVC ngrams: 5 removed: 5, 0.93, 0.0, None
-SVC ngrams: 5 removed: 5, 0.97, 0.0, None
-SVC ngrams: 5 removed: 5, 0.94, 0.0, None
-SVC ngrams: 5 removed: 5, 0.95, 0.0, None
-SVC ngrams: 5 removed: 5, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 6, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 6, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 5 removed: 6, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 5 removed: 6, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 5 removed: 6, 0.95, 1.0, 0.375
-NaiveBayes ngrams: 5 removed: 6, 0.87, 0.7142857142857143, 0.3125
-NaiveBayes ngrams: 5 removed: 6, 0.92, 0.6666666666666666, 0.2222222222222222
-NaiveBayes ngrams: 5 removed: 6, 0.97, 0.6666666666666666, 0.8
-NaiveBayes ngrams: 5 removed: 6, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 5 removed: 6, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 5 removed: 5, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 5 removed: 5, 0.91, 0.8181818181818182, 0.5625
+SVC ngrams: 5 removed: 5, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 5 removed: 5, 0.88, 0.6, 0.42857142857142855
+SVC ngrams: 5 removed: 5, 0.86, 0.6666666666666666, 0.13333333333333333
+SVC ngrams: 5 removed: 5, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 5 removed: 5, 0.81, 0.6666666666666666, 0.1
+SVC ngrams: 5 removed: 5, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 5 removed: 5, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 5 removed: 5, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 5 removed: 6, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 6, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 5 removed: 6, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 5 removed: 6, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 5 removed: 6, 0.95, 1.0, 0.375
+Naive Bayes ngrams: 5 removed: 6, 0.87, 0.7142857142857143, 0.3125
+Naive Bayes ngrams: 5 removed: 6, 0.92, 0.6666666666666666, 0.2222222222222222
+Naive Bayes ngrams: 5 removed: 6, 0.97, 0.6666666666666666, 0.8
+Naive Bayes ngrams: 5 removed: 6, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 5 removed: 6, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 5 removed: 6, 0.94, 0.0, 0.0
 LogisticRegression ngrams: 5 removed: 6, 0.92, 0.36363636363636365, 0.8
 LogisticRegression ngrams: 5 removed: 6, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1368,26 +1368,26 @@ LogisticRegression ngrams: 5 removed: 6, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 5 removed: 6, 0.96, 0.3333333333333333, 1.0
 LogisticRegression ngrams: 5 removed: 6, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 6, 0.95, 0.625, 0.7142857142857143
-SVC ngrams: 5 removed: 6, 0.95, 0.0, None
-SVC ngrams: 5 removed: 6, 0.89, 0.0, None
-SVC ngrams: 5 removed: 6, 0.93, 0.0, None
-SVC ngrams: 5 removed: 6, 0.9, 0.0, None
-SVC ngrams: 5 removed: 6, 0.97, 0.0, None
-SVC ngrams: 5 removed: 6, 0.93, 0.0, None
-SVC ngrams: 5 removed: 6, 0.97, 0.0, None
-SVC ngrams: 5 removed: 6, 0.94, 0.0, None
-SVC ngrams: 5 removed: 6, 0.95, 0.0, None
-SVC ngrams: 5 removed: 6, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 7, 0.95, 0.4, 0.5
-NaiveBayes ngrams: 5 removed: 7, 0.93, 0.7272727272727273, 0.6666666666666666
-NaiveBayes ngrams: 5 removed: 7, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 5 removed: 7, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 5 removed: 7, 0.96, 1.0, 0.42857142857142855
-NaiveBayes ngrams: 5 removed: 7, 0.9, 0.8571428571428571, 0.4
-NaiveBayes ngrams: 5 removed: 7, 0.92, 1.0, 0.2727272727272727
-NaiveBayes ngrams: 5 removed: 7, 0.96, 0.5, 0.75
-NaiveBayes ngrams: 5 removed: 7, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 5 removed: 7, 0.92, 0.75, 0.5
+SVC ngrams: 5 removed: 6, 0.86, 0.4, 0.15384615384615385
+SVC ngrams: 5 removed: 6, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 5 removed: 6, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 5 removed: 6, 0.88, 0.6, 0.42857142857142855
+SVC ngrams: 5 removed: 6, 0.86, 0.6666666666666666, 0.13333333333333333
+SVC ngrams: 5 removed: 6, 0.83, 0.8571428571428571, 0.2727272727272727
+SVC ngrams: 5 removed: 6, 0.82, 0.6666666666666666, 0.10526315789473684
+SVC ngrams: 5 removed: 6, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 5 removed: 6, 0.92, 1.0, 0.38461538461538464
+SVC ngrams: 5 removed: 6, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 5 removed: 7, 0.95, 0.4, 0.5
+Naive Bayes ngrams: 5 removed: 7, 0.93, 0.7272727272727273, 0.6666666666666666
+Naive Bayes ngrams: 5 removed: 7, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 5 removed: 7, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 5 removed: 7, 0.96, 1.0, 0.42857142857142855
+Naive Bayes ngrams: 5 removed: 7, 0.9, 0.8571428571428571, 0.4
+Naive Bayes ngrams: 5 removed: 7, 0.92, 1.0, 0.2727272727272727
+Naive Bayes ngrams: 5 removed: 7, 0.96, 0.5, 0.75
+Naive Bayes ngrams: 5 removed: 7, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 5 removed: 7, 0.92, 0.75, 0.5
 LogisticRegression ngrams: 5 removed: 7, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 7, 0.91, 0.36363636363636365, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 7, 0.93, 0.2857142857142857, 0.5
@@ -1398,26 +1398,26 @@ LogisticRegression ngrams: 5 removed: 7, 0.96, 0.3333333333333333, 0.33333333333
 LogisticRegression ngrams: 5 removed: 7, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 7, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 7, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 5 removed: 7, 0.95, 0.0, None
-SVC ngrams: 5 removed: 7, 0.89, 0.0, None
-SVC ngrams: 5 removed: 7, 0.93, 0.0, None
-SVC ngrams: 5 removed: 7, 0.9, 0.0, None
-SVC ngrams: 5 removed: 7, 0.97, 0.0, None
-SVC ngrams: 5 removed: 7, 0.93, 0.0, None
-SVC ngrams: 5 removed: 7, 0.97, 0.0, None
-SVC ngrams: 5 removed: 7, 0.94, 0.0, None
-SVC ngrams: 5 removed: 7, 0.95, 0.0, None
-SVC ngrams: 5 removed: 7, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 8, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 8, 0.93, 0.8181818181818182, 0.6428571428571429
-NaiveBayes ngrams: 5 removed: 8, 0.89, 0.42857142857142855, 0.3
-NaiveBayes ngrams: 5 removed: 8, 0.92, 0.5, 0.625
-NaiveBayes ngrams: 5 removed: 8, 0.98, 1.0, 0.6
-NaiveBayes ngrams: 5 removed: 8, 0.89, 0.8571428571428571, 0.375
-NaiveBayes ngrams: 5 removed: 8, 0.93, 1.0, 0.3
-NaiveBayes ngrams: 5 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
-NaiveBayes ngrams: 5 removed: 8, 0.96, 1.0, 0.5555555555555556
-NaiveBayes ngrams: 5 removed: 8, 0.91, 0.75, 0.46153846153846156
+SVC ngrams: 5 removed: 7, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 5 removed: 7, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 5 removed: 7, 0.84, 0.5714285714285714, 0.23529411764705882
+SVC ngrams: 5 removed: 7, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 5 removed: 7, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 5 removed: 7, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 5 removed: 7, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 5 removed: 7, 0.89, 0.6666666666666666, 0.3076923076923077
+SVC ngrams: 5 removed: 7, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 5 removed: 7, 0.86, 0.875, 0.35
+Naive Bayes ngrams: 5 removed: 8, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 8, 0.93, 0.8181818181818182, 0.6428571428571429
+Naive Bayes ngrams: 5 removed: 8, 0.89, 0.42857142857142855, 0.3
+Naive Bayes ngrams: 5 removed: 8, 0.92, 0.5, 0.625
+Naive Bayes ngrams: 5 removed: 8, 0.98, 1.0, 0.6
+Naive Bayes ngrams: 5 removed: 8, 0.89, 0.8571428571428571, 0.375
+Naive Bayes ngrams: 5 removed: 8, 0.93, 1.0, 0.3
+Naive Bayes ngrams: 5 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
+Naive Bayes ngrams: 5 removed: 8, 0.96, 1.0, 0.5555555555555556
+Naive Bayes ngrams: 5 removed: 8, 0.91, 0.75, 0.46153846153846156
 LogisticRegression ngrams: 5 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 8, 0.9, 0.36363636363636365, 0.5714285714285714
 LogisticRegression ngrams: 5 removed: 8, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1428,26 +1428,26 @@ LogisticRegression ngrams: 5 removed: 8, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 5 removed: 8, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 8, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 8, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 5 removed: 8, 0.95, 0.0, None
-SVC ngrams: 5 removed: 8, 0.89, 0.0, None
-SVC ngrams: 5 removed: 8, 0.93, 0.0, None
-SVC ngrams: 5 removed: 8, 0.9, 0.0, None
-SVC ngrams: 5 removed: 8, 0.97, 0.0, None
-SVC ngrams: 5 removed: 8, 0.93, 0.0, None
-SVC ngrams: 5 removed: 8, 0.97, 0.0, None
-SVC ngrams: 5 removed: 8, 0.94, 0.0, None
-SVC ngrams: 5 removed: 8, 0.95, 0.0, None
-SVC ngrams: 5 removed: 8, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 9, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 9, 0.94, 0.8181818181818182, 0.6923076923076923
-NaiveBayes ngrams: 5 removed: 9, 0.91, 0.42857142857142855, 0.375
-NaiveBayes ngrams: 5 removed: 9, 0.91, 0.5, 0.5555555555555556
-NaiveBayes ngrams: 5 removed: 9, 0.96, 1.0, 0.42857142857142855
-NaiveBayes ngrams: 5 removed: 9, 0.89, 0.8571428571428571, 0.375
-NaiveBayes ngrams: 5 removed: 9, 0.93, 0.6666666666666666, 0.25
-NaiveBayes ngrams: 5 removed: 9, 0.95, 0.5, 0.6
-NaiveBayes ngrams: 5 removed: 9, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 5 removed: 9, 0.92, 0.75, 0.5
+SVC ngrams: 5 removed: 8, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 5 removed: 8, 0.9, 0.8181818181818182, 0.5294117647058824
+SVC ngrams: 5 removed: 8, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 5 removed: 8, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 5 removed: 8, 0.85, 0.6666666666666666, 0.125
+SVC ngrams: 5 removed: 8, 0.82, 0.8571428571428571, 0.2608695652173913
+SVC ngrams: 5 removed: 8, 0.84, 1.0, 0.15789473684210525
+SVC ngrams: 5 removed: 8, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 5 removed: 8, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 5 removed: 8, 0.87, 0.875, 0.3684210526315789
+Naive Bayes ngrams: 5 removed: 9, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 9, 0.94, 0.8181818181818182, 0.6923076923076923
+Naive Bayes ngrams: 5 removed: 9, 0.91, 0.42857142857142855, 0.375
+Naive Bayes ngrams: 5 removed: 9, 0.91, 0.5, 0.5555555555555556
+Naive Bayes ngrams: 5 removed: 9, 0.96, 1.0, 0.42857142857142855
+Naive Bayes ngrams: 5 removed: 9, 0.89, 0.8571428571428571, 0.375
+Naive Bayes ngrams: 5 removed: 9, 0.93, 0.6666666666666666, 0.25
+Naive Bayes ngrams: 5 removed: 9, 0.95, 0.5, 0.6
+Naive Bayes ngrams: 5 removed: 9, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 5 removed: 9, 0.92, 0.75, 0.5
 LogisticRegression ngrams: 5 removed: 9, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 9, 0.93, 0.45454545454545453, 0.8333333333333334
 LogisticRegression ngrams: 5 removed: 9, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1458,26 +1458,26 @@ LogisticRegression ngrams: 5 removed: 9, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 5 removed: 9, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 9, 0.96, 0.4, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 9, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 5 removed: 9, 0.95, 0.0, None
-SVC ngrams: 5 removed: 9, 0.89, 0.0, None
-SVC ngrams: 5 removed: 9, 0.93, 0.0, None
-SVC ngrams: 5 removed: 9, 0.9, 0.0, None
-SVC ngrams: 5 removed: 9, 0.97, 0.0, None
-SVC ngrams: 5 removed: 9, 0.93, 0.0, None
-SVC ngrams: 5 removed: 9, 0.97, 0.0, None
-SVC ngrams: 5 removed: 9, 0.94, 0.0, None
-SVC ngrams: 5 removed: 9, 0.95, 0.0, None
-SVC ngrams: 5 removed: 9, 0.92, 0.0, None
-NaiveBayes ngrams: 5 removed: 10, 0.93, 0.4, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 10, 0.95, 0.8181818181818182, 0.75
-NaiveBayes ngrams: 5 removed: 10, 0.91, 0.42857142857142855, 0.375
-NaiveBayes ngrams: 5 removed: 10, 0.9, 0.5, 0.5
-NaiveBayes ngrams: 5 removed: 10, 0.94, 1.0, 0.3333333333333333
-NaiveBayes ngrams: 5 removed: 10, 0.89, 0.8571428571428571, 0.375
-NaiveBayes ngrams: 5 removed: 10, 0.94, 0.6666666666666666, 0.2857142857142857
-NaiveBayes ngrams: 5 removed: 10, 0.95, 0.6666666666666666, 0.5714285714285714
-NaiveBayes ngrams: 5 removed: 10, 0.95, 0.8, 0.5
-NaiveBayes ngrams: 5 removed: 10, 0.93, 0.75, 0.5454545454545454
+SVC ngrams: 5 removed: 9, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 5 removed: 9, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 5 removed: 9, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 5 removed: 9, 0.89, 0.7, 0.4666666666666667
+SVC ngrams: 5 removed: 9, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 5 removed: 9, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 5 removed: 9, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 5 removed: 9, 0.9, 0.6666666666666666, 0.3333333333333333
+SVC ngrams: 5 removed: 9, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 5 removed: 9, 0.88, 0.875, 0.3888888888888889
+Naive Bayes ngrams: 5 removed: 10, 0.93, 0.4, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 10, 0.95, 0.8181818181818182, 0.75
+Naive Bayes ngrams: 5 removed: 10, 0.91, 0.42857142857142855, 0.375
+Naive Bayes ngrams: 5 removed: 10, 0.9, 0.5, 0.5
+Naive Bayes ngrams: 5 removed: 10, 0.94, 1.0, 0.3333333333333333
+Naive Bayes ngrams: 5 removed: 10, 0.89, 0.8571428571428571, 0.375
+Naive Bayes ngrams: 5 removed: 10, 0.94, 0.6666666666666666, 0.2857142857142857
+Naive Bayes ngrams: 5 removed: 10, 0.95, 0.6666666666666666, 0.5714285714285714
+Naive Bayes ngrams: 5 removed: 10, 0.95, 0.8, 0.5
+Naive Bayes ngrams: 5 removed: 10, 0.93, 0.75, 0.5454545454545454
 LogisticRegression ngrams: 5 removed: 10, 0.94, 0.2, 0.3333333333333333
 LogisticRegression ngrams: 5 removed: 10, 0.91, 0.36363636363636365, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 10, 0.94, 0.2857142857142857, 0.6666666666666666
@@ -1488,13 +1488,13 @@ LogisticRegression ngrams: 5 removed: 10, 0.97, 0.6666666666666666, 0.5
 LogisticRegression ngrams: 5 removed: 10, 0.95, 0.3333333333333333, 0.6666666666666666
 LogisticRegression ngrams: 5 removed: 10, 0.96, 0.2, 1.0
 LogisticRegression ngrams: 5 removed: 10, 0.96, 0.625, 0.8333333333333334
-SVC ngrams: 5 removed: 10, 0.95, 0.0, None
-SVC ngrams: 5 removed: 10, 0.89, 0.0, None
-SVC ngrams: 5 removed: 10, 0.93, 0.0, None
-SVC ngrams: 5 removed: 10, 0.9, 0.0, None
-SVC ngrams: 5 removed: 10, 0.97, 0.0, None
-SVC ngrams: 5 removed: 10, 0.93, 0.0, None
-SVC ngrams: 5 removed: 10, 0.97, 0.0, None
-SVC ngrams: 5 removed: 10, 0.94, 0.0, None
-SVC ngrams: 5 removed: 10, 0.95, 0.0, None
-SVC ngrams: 5 removed: 10, 0.92, 0.0, None
+SVC ngrams: 5 removed: 10, 0.85, 0.4, 0.14285714285714285
+SVC ngrams: 5 removed: 10, 0.89, 0.8181818181818182, 0.5
+SVC ngrams: 5 removed: 10, 0.83, 0.5714285714285714, 0.2222222222222222
+SVC ngrams: 5 removed: 10, 0.87, 0.7, 0.4117647058823529
+SVC ngrams: 5 removed: 10, 0.84, 0.6666666666666666, 0.11764705882352941
+SVC ngrams: 5 removed: 10, 0.81, 0.8571428571428571, 0.25
+SVC ngrams: 5 removed: 10, 0.85, 1.0, 0.16666666666666666
+SVC ngrams: 5 removed: 10, 0.91, 0.6666666666666666, 0.36363636363636365
+SVC ngrams: 5 removed: 10, 0.93, 1.0, 0.4166666666666667
+SVC ngrams: 5 removed: 10, 0.89, 0.875, 0.4117647058823529

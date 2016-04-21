@@ -11,7 +11,10 @@ def parse (text):
     return text
     
 def scores(reference, test):
-    tp=tn=fp=fn=0;
+    tp = 0
+    tn = 0
+    fp = 0
+    fn = 0
     for (r, t) in zip(reference, test):
         if r == "REL" and t == "REL":
             tp = tp + 1
@@ -42,7 +45,7 @@ class TweetFeaturizer(object):
     def featurize(self, tweet):
         return ({ngram: (ngram in parse(tweet)) for ngram in self.all_ngrams })
 
-file_name = r"E:\Tweets\random sample of 1000.txt"
+file_name = r".\random sample of 1000.txt"
 out = open("classifier_results.txt", "w")
 num_folds = 10
 for n in range(1,6):
@@ -77,7 +80,7 @@ for n in range(1,6):
                     classifier = nltk.classify.SklearnClassifier(LogisticRegression()).train(train_fold)
                 elif j == 2:
                     name = "SVC"
-                    classifier = nltk.classify.SklearnClassifier(SVC()).train(train_fold)
+                    classifier = nltk.classify.SklearnClassifier(SVC(class_weight='balanced')).train(train_fold)
                 classifier.train(train_fold)
                 test_fold_classified = classifier.classify_many(d for (d, l) in test_fold)
                 test_fold_actual = [l for (d,l) in test_fold]
