@@ -45,7 +45,7 @@ class TweetFeaturizer(object):
     def featurize(self, tweet):
         return ({ngram: (ngram in parse(tweet)) for ngram in self.all_ngrams })
 
-file_name = r".\random sample of 1000.txt"
+file_name = r".\training_set.json"
 out = open("classifier_results.txt", "w")
 num_folds = 10
 for n in range(1,6):
