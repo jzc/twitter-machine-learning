@@ -24,7 +24,6 @@ def scores(reference, test):
             fp = fp + 1
         elif r == "IRR" and t == "REL":
             fn = fn + 1
-    print("tp: {} tn: {} fp: {} fn: {}".format(tp, tn, fp, fn))
     return ((tp + tn)/(tp + tn + fp + fn), tp/(tp + fp) if not tp + fp == 0 else None, tp/(tp + fn) if not tp + fn == 0 else None) 
 class TweetFeaturizer(object):
     def __init__(self, tweets, n, remove):
