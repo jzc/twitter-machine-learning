@@ -5,7 +5,7 @@ import json
 import nltk
 import string
 
-def parse (text):
+def parse(text):
     text = text.lower()
     text = ''.join(ch for ch in text if ch not in string.punctuation)
     return text
