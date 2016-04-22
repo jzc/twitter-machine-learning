@@ -54,13 +54,13 @@ def cross_validate(classifier, train_set, num_folds):
         train_fold = train_set[:i*subset_size] + train_set[(i+1)*subset_size:]
         if classifier == "N":
             name = "NaiveBayes"
-            classifier = nltk.classify.NaiveBayesClassifier.train(train_fold)
+            classifier = create_naive_bayes_classifier(train_fold)
         elif classifier == "L":
             name = "LogisticRegression"
-            classifier = nltk.classify.SklearnClassifier(LogisticRegression()).train(train_fold)
+            classifier = create_logistic_classifier(train_fold)
         elif classifier == "S":
             name = "SVC"
-            classifier = nltk.classify.SklearnClassifier(SVC(class_weight='balanced')).train(train_fold)
+            classifier = create_svc_classifier(train_fold)
         test_fold_classified = classifier.classify_many(d for (d, l) in test_fold)
         test_fold_actual = [l for (d,l) in test_fold]
         accuracy, precision, recall = scores(test_fold_actual, test_fold_classified)
@@ -72,3 +72,21 @@ def cross_validate(classifier, train_set, num_folds):
     
 def create_train_set(tf, tweets):
     return [(tf.featurize(tweet[0]), tweet[1]) for tweet in tweets]
+
+def load_tweets(file_name):
+    #Load tweets
+    file = open(file_name, "r", encoding="utf8")
+    tweets = []
+    for line in file:
+        parsed = json.loads(line)
+        tweets.append((parsed["text"], "REL" if parsed["type"] in ("REL", "WSH", "GSH") else "IRR"))
+    return tweets
+    
+def create_naive_bayes_classifier(train_set):
+    return nltk.classify.NaiveBayesClassifier.train(train_set)
+    
+def create_logistic_classifier(train_set):
+    return nltk.classify.SklearnClassifier(LogisticRegression()).train(train_set)
+    
+def create_svc_classifier(train_set):    
+    return nltk.classify.SklearnClassifier(SVC(class_weight='balanced')).train(train_set)

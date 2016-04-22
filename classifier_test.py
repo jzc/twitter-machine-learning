@@ -1,4 +1,4 @@
-from twitter_machine_learning import TweetFeaturizer, cross_validate, create_train_set
+from twitter_machine_learning import *
 import json
 
 train_file = r".\training_set.json"
@@ -6,11 +6,7 @@ train_file = r".\training_set.json"
 num_folds = 10
 
 #Load tweets
-file = open(train_file, "r", encoding="utf8")
-tweets = []
-for line in file:
-    parsed = json.loads(line)
-    tweets.append((parsed["text"], "REL" if parsed["type"] in ("WSH", "GSH") else "IRR"))
+tweets = load_tweets(train_file)
     
 for n in range(1,6):
     for remove in range(1,11):     
