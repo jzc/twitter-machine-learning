@@ -11,7 +11,7 @@ tweets = load_tweets(train_file)
 print("Done")
 
 print("Creating featurizer")
-tf = TweetFeaturizer(tweets, 4, 3)
+tf = TweetFeaturizer(tweets, 4, 7)
 print("Done")
 
 print("Creating training set")
