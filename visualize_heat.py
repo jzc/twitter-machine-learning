@@ -14,8 +14,8 @@ for line in file:
     parsed = json.loads(line)
     results.append(parsed)
 
-xlabels = np.arange(1,6)
-ylabels = np.arange(1,11)
+xlabels = np.arange(1,11)
+ylabels = np.arange(1,6)
 z = np.array([result["average"]["recall"] for result in results])
 z.resize(len(ylabels), len(xlabels))
 fig, ax = plt.subplots()
@@ -35,11 +35,11 @@ ax.set_xticklabels(xlabels, minor=False)
 ax.set_yticklabels(ylabels, minor=False)
 
 #set axis labels
-plt.xlabel("ngram size")
-plt.ylabel("removed")
+plt.xlabel("removed")
+plt.ylabel("ngram size")
 
 #set title
-plt.title("Logistic regression accuracy")
+plt.title("Logistic regression recall")
 
 #remove ticks
 ax = plt.gca()
@@ -51,5 +51,5 @@ for t in ax.yaxis.get_major_ticks():
     t.tick2On = False
     
 #set colorbar
-fig.colorbar(heatmap, cmap=cm.coolwarm)
+fig.colorbar(heatmap)
 plt.show()
