@@ -1,6 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 from os import listdir
+from scipy.stats import pearsonr
 
 classified_dir = r".\classified_tweets"
 official_file = r".\official_data.json"
@@ -22,8 +23,13 @@ for file in files:
 
 official_data = [json.loads(line) for line in open(official_file, "r", encoding="utf8")]
 x = range(1,7)
-plt.plot(x, [d["percent"] for d in official_data], "r")
+print(pearsonr([d["percent"] for d in official_data], [d["percent"] for d in classified_data])[0]**2)
+plt.plot(x, [d["percent"] for d in official_data], "r", label="CDC")
 plt.plot(x, [d["percent"] for d in official_data], "ro")
-plt.plot(x, [d["percent"] for d in classified_data], "b")
+plt.plot(x, [d["percent"] for d in classified_data], "b", label="Model")
 plt.plot(x, [d["percent"] for d in classified_data], "bo")
+plt.xlabel("Month")
+plt.ylabel("Percent covered")
+plt.xticks(x, ["Sep","Oct","Nov","Dec","Jan","Feb"], rotation="45")
+plt.legend()
 plt.show()
