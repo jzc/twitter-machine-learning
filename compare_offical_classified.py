@@ -24,20 +24,32 @@ for file in files:
     classified_data.append({"month":parsed["created_at"].split()[1],"type":"official","percent":percent})
     
 official_data = [json.loads(line) for line in open(official_file, "r", encoding="utf8")]
+
+#Scale classified data by minimizing square error
 f = lambda theta: theta[0] + theta[1] * np.array([d["percent"] for d in classified_data])
 g = np.array([d["percent"] for d in official_data])
 cost = lambda theta: sum((f(theta) - g)**2)
 res = minimize(cost, [0,1], method="BFGS")
-x = range(1,7)
+print(res.x)
+
+#Show correlation values are the same
 print(pearsonr(g, f(res.x))[0]**2)
 print(pearsonr(g, f([0,1]))[0]**2)
-plt.plot(x, g, "r", label="CDC")
-plt.plot(x, g, "ro")
-plt.plot(x, f([0,1]), "g", label="Model")
-plt.plot(x, f([0,1]), "go")
-plt.plot(x, f(res.x), "b", label="Scaled Model")
-plt.plot(x, f(res.x), "bo")
-plt.ylabel("Percent covered")
+
+#Plot data
+ax1 = plt.gca()
+ax2 = ax1.twinx()
+x = range(1,7)
+ax1.plot(x, g, "r", label="CDC")
+ax1.plot(x, g, "ro")
+ax1.plot(x, f([0,1]), "g", label="Model")
+ax1.plot(x, f([0,1]), "go")
+ax2.plot(x, f([0,1]), "b", label="Scaled Model")
+ax2.plot(x, f([0,1]), "bo")
+ax2.set_ylim((np.array(ax1.get_ylim()) - res.x[0]) / res.x[1])
+ax1.set_ylabel("Percent covered (official)")
+ax2.set_ylabel("Percent covered (model)")
 plt.xticks(x, ["Sep","Oct","Nov","Dec","Jan","Feb"], rotation="45")
-plt.legend()
+ax1.legend()
+ax2.legend()
 plt.show()
