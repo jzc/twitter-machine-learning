@@ -2,7 +2,7 @@ from twitter_machine_learning import load_tweets, TweetFeaturizer, create_train_
 import json
 
 train_file = r".\train_set_1.json"
-result_file = r".\logistic_results.json"
+result_file = r".data\naive_bayes_results.json"
 
 out = open(result_file, "w", encoding="utf8")
 
@@ -20,7 +20,7 @@ for i in range(1,6):
         train_set = create_train_set(tf, tweets)
         print("Done")
         
-        results = cross_validate("L", train_set, 10)
+        results = cross_validate("N", train_set, 10)
         results["features"] = len(tf.all_ngrams)
         results["ngrams"] = i
         results["removed"] = j
