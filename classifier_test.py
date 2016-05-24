@@ -1,36 +1,43 @@
-from twitter_machine_learning import *
+from twitter_machine_learning import load_tweets, TweetFeaturizer, create_train_set, cross_validate
 import json
 
-train_file = r".\training_set.json"
-#out = open("classifier_results.txt", "w")
-num_folds = 10
+parser = OptionParser()
+parser.add_option("-c", "--classifier", dest="classifier")
+(options, args) = parser.parse_args()
 
-#Load tweets
+train_file = r".\train_set_1.json"
+if options.classifier == "N"
+    name = "naive_bayes"
+elif options.classifier == "L"
+    name = "logistic"
+elif options.classifier == "S"
+    name = "SVC"
+result_file = r".data\{}_results.json".format(name)
+
+out = open(result_file, "w", encoding="utf8")
+
+print("Loading tweets")
 tweets = load_tweets(train_file)
-    
-for n in range(1,6):
-    for remove in range(1,11):     
-        #Extract ngrams and remove hapaxes
-        tf = TweetFeaturizer(tweets, n, remove)
-        print("created ngrams")
+print("Done")
 
-        #Create training set
+for i in range(1,6):
+    for j in range(1,11):
+        print("Creating featurizer")
+        tf = TweetFeaturizer(tweets, i, j)
+        print("Done")
+        
+        print("Creating training set")
         train_set = create_train_set(tf, tweets)
-        print("created training set")
-        subset_size = int(len(train_set)/num_folds)
-
-        #Make classifier and cross validate
-        for j in range(3):
-            if j == 0:
-                name = "NaiveBayes"
-                results = cross_validate("N", train_set, 10)
-            if j == 1:
-                name = "LogisticRegression"
-                results = cross_validate("L", train_set, 10)
-            if j == 2:
-                name = "SVC"
-                results = cross_validate("S", train_set, 10)
-            name = "{} ngrams: {} removed: {}".format(name, n, remove)
-            for fold in results["folds"]:
-                output = ', '.join((name,repr(fold["accuracy"]),repr(fold["precision"]),repr(fold["recall"])))
-                print(output)    
+        print("Done")
+        
+        results = cross_validate(options.classifier, train_set, 10)
+        results["features"] = len(tf.all_ngrams)
+        results["ngrams"] = i
+        results["removed"] = j
+        print("Number of features: {}".format(results["features"]))
+        print("ngrams: {}".format(i))
+        print("Removed: {}".format(j))
+        print("Accuracy: {}".format(results["average"]["accuracy"]))
+        print("Precision: {}".format(results["average"]["precision"]))
+        print("Recall: {}".format(results["average"]["recall"]))    
+        out.write(json.JSONEncoder().encode(results) + "\n")    
